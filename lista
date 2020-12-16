@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1, Movistar estrenos
+https://perocomato152.caraponi.me/live/plusestrenos/index.m3u8?token=T46sv5IeyEYmz4Hg9RF07A&expires=1608233881
+
+#EXTINF:-1, Fox life
+https://cortino2.mitopo.me/live/foxlife/index.m3u8?token=JhKQUPyNH8ZotWIfNNlIhA&expires=1608234312
