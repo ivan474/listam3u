@@ -1,7 +1,52 @@
 #EXTM3U
 
+#EXTINF:-1, La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, La 2
+https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8
+
+#EXTINF:-1, Antena 3
+https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8
+
+#EXTINF:-1, Cuatro
+https://live.cuatro.com/hls/live/2004102/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1, Telecinco
+https://live.telecinco.es/hls/live/2004101/telecinco/bitrate_4.m3u8
+
+#EXTINF:-1, La sexta
+https://directo.atresmedia.com/1608221450_244b6bb410e968a13a58a05dab8d49702296ae0f/lasexta/bitrate_2.m3u8
+
+#EXTINF:-1, Canal sur
+https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8
+
+#EXTINF:-1, Dkiss
+http://91.126.141.201:1935/live/kiss/chunklist_w722958382.m3u8
+
+#EXTINF:-1, Ten
+http://91.126.141.201:1935/live/ten/chunklist_w39037290.m3u8
+
+#EXTINF:-1, mtmad
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1608279596~acl=%2fi%2fmtmad_1%40744785%2f*~data=hdntl~hmac=4e8aa3f8ce53746a7928362383b3cb4ead96448fdb371cc11b4ef38ec8ab3845
+
+#EXTINF:-1, Neox
+https://directo.atresmedia.com/1608222164_e1d6f7d07ce3b679879f8f8c1236ec987310b9ba/geoneox/bitrate_3.m3u8
+
+#EXTINF:-1, Nova
+https://directo.atresmedia.com/1608222264_fd450c038abdbcba81e9cf16326e02c5029ab492/geonova/bitrate_3.m3u8
+
+#EXTINF:-1, Mega
+https://directo.atresmedia.com/1608222544_f24c9a45c343d4a0076c8931e31b8d9296db8dc1/geomega/bitrate_3.m3u8
+
+#EXTINF:-1, A3series
+https://directo.atresmedia.com/1608222629_55d28756bec4c5542663e506c9a110a3d25dc3e0/geoa3series/bitrate_3.m3u8
+
+#EXTINF:-1, FDF
+https://live.mitele.es/hls/live/2005336/fdf/bitrate_3.m3u8
+
 #EXTINF:-1, Movistar estrenos
-https://perocomato152.caraponi.me/live/plusestrenos/index.m3u8?token=T46sv5IeyEYmz4Hg9RF07A&expires=1608233881
+https://perocomato152.caraponi.me/live/plusestrenos/index.m3u8?token=0hSoIU2sAyTKeJziq76NKQ&expires=1608280819
 
 #EXTINF:-1, Fox life
 https://cortino2.mitopo.me/live/foxlife/index.m3u8?token=JhKQUPyNH8ZotWIfNNlIhA&expires=1608234312
