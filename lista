@@ -48,8 +48,77 @@ https://live.mitele.es/hls/live/2005336/fdf/bitrate_3.m3u8
 #EXTINF:-1, Movistar estrenos
 https://perocomato152.caraponi.me/live/plusestrenos/index.m3u8?token=0hSoIU2sAyTKeJziq76NKQ&expires=1608280819
 
-#EXTINF:-1, Fox life
+#EXTINF:-1, Movistar acción
+https://cortino8.mitopo.me/live/plusaccion/index.m3u8?token=xHl26NbiU-_3Qo2bxWwn_A&expires=1608280909
+
+#EXTINF:-1, Movistar drama
+https://cortino4.mitopo.me/live/drama/index.m3u8?token=BJkBjZV5BvvOhKDlUl8YdQ&expires=1608281168
+
+#EXTINF:-1, Movistar #0
+https://cortino3.mitopo.me/live/plus1/index.m3u8?token=Mf0hrmH-moYeAzwUuyimgw&expires=1608281254
+
+#EXTINF:-1, Movistar series
+https://perocomato152.caraponi.me/live/plusseries/index.m3u8?token=P6Pe9Xcrh9QNwG3gGT9QxA&expires=1608281309
+
+#EXTINF:-1, Movistar seriesmania
 https://cortino2.mitopo.me/live/foxlife/index.m3u8?token=JhKQUPyNH8ZotWIfNNlIhA&expires=1608234312
 
+#EXTINF:-1, Movistar vamos
+https://perocomato152.caraponi.me/live/vamos/index.m3u8?token=3xSFT6xNA2QIr1cemYuvJg&expires=1608281491
+
+#EXTINF:-1, Movistar la liga
+https://n4mtbwrdm2xawgm.ezcdn421.net:8443/hls/2ahhxuw768cjr.m3u8?s=q_2euAKImsIBYhfu0JoIFw&e=1608216958
+
+#EXTINF:-1, Movistar la liga opción 2
+https://perocomato152.caraponi.me/live/laliga2/index.m3u8?token=lbrZKGQv4k0t56-qbUnlRA&expires=1608281649
+
+#EXTINF:-1, Movistar liga de campeones
+https://perocomato152.caraponi.me/live/verliga5/index.m3u8?token=QkzMnLiqgbqwLDi_uaJjJA&expires=1608281827
+
+#EXTINF:-1, Movistar liga de campeones opción 2
+https://perocomato152.caraponi.me/live/verliga5/index.m3u8?token=6UIXq5slrbKT3kLiGyGtIQ&expires=1608281981
+
+#EXTINF:-1, Fox life
+https://cortino8.mitopo.me/live/foxlife/index.m3u8?token=OMBw1h2QbD4aczk80c2VkQ&expires=1608282048
+
 #EXTINF:-1, crimen investigacion
-https://cortino6.mitopo.me/live/ci/index.m3u8?token=rQFrswO344c89LFrcSuIzg&expires=1608239889
+https://cortino7.mitopo.me/live/ci/index.m3u8?token=fHTOIDOj8BIanpiim8ExJg&expires=1608282098
+
+#EXTINF:-1, cosmo
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/chunklist_w1730733301_b3128000_sling.m3u8
+
+#EXTINF:-1, MTV yo
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+
+#EXTINF:-1, MTV pop
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+
+#EXTINF:-1, MTV party
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
+
+#EXTINF:-1, cazavisión
+https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
+
+#EXTINF:-1, Caza y pesca
+https://cortino4.mitopo.me/live/cazaypesca/index.m3u8?token=IPPGGkL54Wjs5t3QVKtQ_Q&expires=1608283468
+
+#EXTINF:-1, boing
+https://live.mitele.es/hls/live/2005334/boing/bitrate_3.m3u8
+
+#EXTINF:-1, kids tv
+https://livelist01.yowi.tv/lista/eede3daa45f98e0dce894da041ce520a22397517/index-f4-v1-a1.m3u8
+
+#EXTINF:-1, Cartoon network la
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CuoEh4D4ZhPUCIX6_2jthP1VbDmCg7uVnsL8sIVIebJ3kL81NOP4VZFTC__-A06Gngq2iH5vbyVBUYjG6dUmkChbWoE3AYHQ0ZIuWcjtugMPqqXk29EQr2eZa2rHTesI2b8-0hM_A-_Unn8r9YahBt0PfOOfrPxQhcfZipDaCTSAO7T935sdA2ZL2glCU788V-9bTXfFB4nyFG6ih6pkDbl9zHYuzt1peS1QbHE-uZffPut0G3r-bXVJZAXyQAU002cPnLT2P4P4E6ALoZLtpHqVwbHOXZ1kHI1DrGd22_pKEhpAT8avd3jpep2lWSsBflxgFD30K25IqMg-Tig3eYCduTkDofLWL41truuV8BkWtEZK_E5qnuds62MohQ4j4VkTsZejVA3J2tz5b_t3DPiGXEdqCl7iN4wAWatEy9T1mIeGukANpEvqYRoMSFbAFhPRZ9YDtN6GbNIV3NjZe32OG89D683M3N96HVtxT1Atn8Bo0iI8LCK2bo1lsTY9GKK9x0XnZA35deY4l6CZYlxArtAc9S0aCMDu1KphP9767AW7s4PVqCb-qvNNpGnspaShdaybZ6fQDqM1zHeQFqaxw6ALMBQXSBrGX6vE7dNED9c-LfaRXxnNByBW8ZYTAZL0k6HU-JWDiBDgnAYquOu6bfxRZVjSJOQM4nOdOZ9A315-Ab0MQTJ_Zxmqhlqr5VH_kO-X07NLXkVCqVb9DMMUYVLdDTqL-Ns1np7xCOLwaXexZfp1OXh7Ip-xCiMvLUbBfm8-HjNsqhlKh2_RyMhaZcRf0Zi0TOWIy86K3Zsuna9SuyubbdtTKgJkEhAYbKkL9_iXF2xxFE6D9DtcGgxkn5d6eI9Tdw8wOiw.m3u8
+
+#EXTINF:-1, investication discovery
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CusE3PYEykpicrG0egCkG6nw5o-1zIHwcNH8fc6hXV385WfAkROzlSDV1Xa6cFjpdVv7sdcbX4d95Ba84rEWVXww5QvCEIe6txQca5_SN75-OP-MnpLf7j2Eoq_-LbaiTgM-8W8Jg97HPGg48olxseKqZuVZGggby1N7B8baaPBUttmbRK7N7NBSkc4iP4GzzEdsCx00XMt0Le8mF6rYdxPfNxkcbRTDlmMD_9D0xfCtaHTcxE7m-aBj049nFZhp_9LZPP32HNZBfSOYTeuAn5s6p6dB9pEjXvpbs2FupvCVUuhPpfIUCjxE08sOfke2pSLsFgj0FHzi80lXqZVP_bKzZP_DFeuVpIWyuQ0mExsjfTRuUizAHKrinL0sdn-GJwEYPGv3G3-0ldqZpnnp72pLNt5uhE75qjBfJhiortfPz0tPnW-ep7KRDys-jSdVLdy2N6TlfW4tlpx7_oZnZi4mGgF9GdNou7NJeDLLy83-VJ-AXbMP_Lk96kcZ7jmCkV1gv5SWLR6vkcD8881ch4t9ndrBmYYCNsg4gmE4d7EFlmmKpRT1CkPxYMV62b5MVbBJXFBm5EoNxKkVKkAflbjuPBqszgYzyZ3RHJ4PLedHaIXTj3d7vkVPaX5kB3CK-LmbDgrN2sGWhbHyGxzM0YXJDgQPP1JY0ZjRWOQf8zsUTuypQ3O-QJfwZpKEhjf71Cy0wNyodzX6hKhrUA5NkqhDrMJ0KHEGgYQuc9DQ53m7V6V0_NlBxQ_Lfi9eMjSY7Zq4OmS1uoVboowGbcnO6XjdqXsFPz0arn35Q6bP0GO1369Ril6IiTdFafzS8RIQ0m0LeUk5Mm-lGOa5uXkHARoMRgoPDgz7I2guoYqq.m3u8
+
+#EXTINF:-1, Dragon ball z 24 horas
+http://89.105.194.59:25461/live/spen!$F10$/spen!$F10$/69.m3u8
+
+#EXTINF:-1, Boomerang
+http://89.105.194.59:25461/live/spinft50/spinft50/62.m3u8
+
+#EXTINF:-1, Azteca 7
+http://89.105.194.59:25461/live/mx1XX$$N!/mx1XX$$N!/33.m3u8
