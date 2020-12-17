@@ -122,3 +122,9 @@ http://89.105.194.59:25461/live/spinft50/spinft50/62.m3u8
 
 #EXTINF:-1, Azteca 7
 http://89.105.194.59:25461/live/mx1XX$$N!/mx1XX$$N!/33.m3u8
+
+#EXTINF:-1, Tv3
+https://directes-tv-es.ccma.cat/es/ngrp:c33_web/chunklist_b1327104.m3u8
+
+#EXTINF:-1, Gol Tv
+https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hlow.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGxvdy5tM3U4IiwiQ29uZGl0aW9uIjp7IklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIyMTcuMTI2LjEyOS4yMC8zMiJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwODI5MjQ5MH19fV19&Signature=U71NmK2Kjts4F7dy4zaCkIAS9tVyclFE7eS0dY87NDwlxueDQGdKcyy2aiXMT1VGpo4Rjq~zypwAzIzyXQX~FaRqekrDFJUHKTxY2nqMKYrMUFQemXMBJOJxpJByczRVLgwIb6pb6zJlErvbIupGpeCs92w7wh13E4kLrwE34K4PTjgmqU6NogU53DYHzgCQO1Gew6ZUpxEl1o9Wmt82KZo5N1oPeTmEorsnLilu1D8JJivWy5T15w1LpVpUtCbrtYF6f8ZDO32kjh3AMxwpP149sg40uPJ3-2ReEnnOpjG13t1Rgf7jsFYhZ4vq6J14gYgWJdnfGbpIZ6w1Dzg7CQ__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
