@@ -7,13 +7,13 @@ https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8
 https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8
 
 #EXTINF:-1, Antena 3
-https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8
+https://directo.atresmedia.com/1608339592_67e8b95e0721a6c49441471c4e5891427785dd4e/antena3/bitrate_3.m3u8
 
 #EXTINF:-1, Cuatro
 https://live.cuatro.com/hls/live/2004102/cuatro/bitrate_4.m3u8
 
 #EXTINF:-1, Telecinco
-https://live.telecinco.es/hls/live/2004101/telecinco/bitrate_4.m3u8
+https://live.mitele.es/hls/live/2004101/telecinco/bitrate_3.m3u8
 
 #EXTINF:-1, La sexta
 https://directo.atresmedia.com/1608221450_244b6bb410e968a13a58a05dab8d49702296ae0f/lasexta/bitrate_2.m3u8
@@ -102,6 +102,12 @@ https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
 #EXTINF:-1, Caza y pesca
 https://cortino4.mitopo.me/live/cazaypesca/index.m3u8?token=IPPGGkL54Wjs5t3QVKtQ_Q&expires=1608283468
 
+#EXTINF:-1, Eitb 1
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&rebase=on
+
+#EXTINF:-1, Eitb 2
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8?sd=8&rebase=on
+
 #EXTINF:-1, boing
 https://live.mitele.es/hls/live/2005334/boing/bitrate_3.m3u8
 
@@ -128,3 +134,24 @@ https://directes-tv-es.ccma.cat/es/ngrp:c33_web/chunklist_b1327104.m3u8
 
 #EXTINF:-1, Gol Tv
 https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hlow.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGxvdy5tM3U4IiwiQ29uZGl0aW9uIjp7IklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIyMTcuMTI2LjEyOS4yMC8zMiJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwODI5MjQ5MH19fV19&Signature=U71NmK2Kjts4F7dy4zaCkIAS9tVyclFE7eS0dY87NDwlxueDQGdKcyy2aiXMT1VGpo4Rjq~zypwAzIzyXQX~FaRqekrDFJUHKTxY2nqMKYrMUFQemXMBJOJxpJByczRVLgwIb6pb6zJlErvbIupGpeCs92w7wh13E4kLrwE34K4PTjgmqU6NogU53DYHzgCQO1Gew6ZUpxEl1o9Wmt82KZo5N1oPeTmEorsnLilu1D8JJivWy5T15w1LpVpUtCbrtYF6f8ZDO32kjh3AMxwpP149sg40uPJ3-2ReEnnOpjG13t1Rgf7jsFYhZ4vq6J14gYgWJdnfGbpIZ6w1Dzg7CQ__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
+
+#EXTINF:-1, corto film
+https://livelist01.yowi.tv/lista/7b69fc60c67962d703e9c95b60cb17c56b921b75/index-f4-v1-a1.m3u8
+
+#EXTINF:-1, caillou 24 horas
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/872
+
+#EXTINF:-1, bob esponja 24 horas
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/884
+
+#EXTINF:-1, el coyote y correcaminos 24 horas
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/899
+
+#EXTINF:-1, peliculas de terror 24 horas
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/920
+
+#EXTINF:-1, pokemon
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/924
+
+#EXTINF:-1, bit me
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/89
