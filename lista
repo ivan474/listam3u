@@ -46,7 +46,7 @@ https://directo.atresmedia.com/1608222629_55d28756bec4c5542663e506c9a110a3d25dc3
 https://live.mitele.es/hls/live/2005336/fdf/bitrate_3.m3u8
 
 #EXTINF:-1, Movistar estrenos
-https://perocomato152.caraponi.me/live/plusestrenos/index.m3u8?token=0hSoIU2sAyTKeJziq76NKQ&expires=1608280819
+https://perocomato152.caraponi.me/live/plusestrenos/index.m3u8?token=_mpz_aNm7g2pTGboZwfzcQ&expires=1608730143
 
 #EXTINF:-1, Movistar acción
 https://cortino8.mitopo.me/live/plusaccion/index.m3u8?token=xHl26NbiU-_3Qo2bxWwn_A&expires=1608280909
@@ -82,7 +82,7 @@ https://perocomato152.caraponi.me/live/verliga5/index.m3u8?token=6UIXq5slrbKT3kL
 https://cortino8.mitopo.me/live/foxlife/index.m3u8?token=OMBw1h2QbD4aczk80c2VkQ&expires=1608282048
 
 #EXTINF:-1, crimen investigacion
-https://cortino7.mitopo.me/live/ci/index.m3u8?token=fHTOIDOj8BIanpiim8ExJg&expires=1608282098
+https://cortino8.mitopo.me/live/ci/index.m3u8?token=nEY-xnKI50BRL4ys1OweOA&expires=1608729909
 
 #EXTINF:-1, cosmo
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/chunklist_w1730733301_b3128000_sling.m3u8
@@ -132,29 +132,3 @@ http://89.105.194.59:25461/live/mx1XX$$N!/mx1XX$$N!/33.m3u8
 #EXTINF:-1, Tv3
 https://directes-tv-es.ccma.cat/es/ngrp:c33_web/chunklist_b1327104.m3u8
 
-#EXTINF:-1, Gol Tv
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hlow.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGxvdy5tM3U4IiwiQ29uZGl0aW9uIjp7IklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIyMTcuMTI2LjEyOS4yMC8zMiJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwODI5MjQ5MH19fV19&Signature=U71NmK2Kjts4F7dy4zaCkIAS9tVyclFE7eS0dY87NDwlxueDQGdKcyy2aiXMT1VGpo4Rjq~zypwAzIzyXQX~FaRqekrDFJUHKTxY2nqMKYrMUFQemXMBJOJxpJByczRVLgwIb6pb6zJlErvbIupGpeCs92w7wh13E4kLrwE34K4PTjgmqU6NogU53DYHzgCQO1Gew6ZUpxEl1o9Wmt82KZo5N1oPeTmEorsnLilu1D8JJivWy5T15w1LpVpUtCbrtYF6f8ZDO32kjh3AMxwpP149sg40uPJ3-2ReEnnOpjG13t1Rgf7jsFYhZ4vq6J14gYgWJdnfGbpIZ6w1Dzg7CQ__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
-
-#EXTINF:-1, corto film
-https://livelist01.yowi.tv/lista/7b69fc60c67962d703e9c95b60cb17c56b921b75/index-f4-v1-a1.m3u8
-
-#EXTINF:-1, caillou 24 horas
-http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/872
-
-#EXTINF:-1, bob esponja 24 horas
-http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/884
-
-#EXTINF:-1, el coyote y correcaminos 24 horas
-http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/899
-
-#EXTINF:-1, peliculas de terror 24 horas
-http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/920
-
-#EXTINF:-1, pokemon
-http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/924
-
-#EXTINF:-1, bit me
-http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/89
-
-#EXTINF:-1, movistar liga
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/12xqh8ltt6.m3u8?s=ALuvPnfZ3Cis6_tHfvG6Dw&e=1608430784
