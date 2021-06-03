@@ -10,7 +10,7 @@ https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8
 https://directo.atresmedia.com/1608339592_67e8b95e0721a6c49441471c4e5891427785dd4e/antena3/bitrate_3.m3u8
 
 #EXTINF:-1, Cuatro
-https://live.cuatro.com/hls/live/2004102/cuatro/bitrate_4.m3u8
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/67457
 
 #EXTINF:-1, Telecinco
 https://live.mitele.es/hls/live/2004101/telecinco/bitrate_3.m3u8
@@ -51,8 +51,11 @@ http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64031
 #EXTINF:-1, Movistar acción
 http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64037
 
+#EXTINF:-1, Movistar cine
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64034
+
 #EXTINF:-1, Movistar drama
-https://cortino4.mitopo.me/live/drama/index.m3u8?token=BJkBjZV5BvvOhKDlUl8YdQ&expires=1608281168
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64042
 
 #EXTINF:-1, Movistar #0
 https://cortino3.mitopo.me/live/plus1/index.m3u8?token=Mf0hrmH-moYeAzwUuyimgw&expires=1608281254
