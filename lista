@@ -37,13 +37,22 @@ http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64019
 http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64016
 
 #EXTINF:-1, Mega
-https://directo.atresmedia.com/1608222544_f24c9a45c343d4a0076c8931e31b8d9296db8dc1/geomega/bitrate_3.m3u8
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3757?play_token=fG5Hi6hTf0
 
 #EXTINF:-1, A3series
 https://directo.atresmedia.com/1608222629_55d28756bec4c5542663e506c9a110a3d25dc3e0/geoa3series/bitrate_3.m3u8
 
+#EXTINF:-1, divinity
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64104
+
+#EXTINF:-1, energy
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64101
+
 #EXTINF:-1, FDF
-https://live.mitele.es/hls/live/2005336/fdf/bitrate_3.m3u8
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3755?play_token=BDHlaEAWcD
+
+#EXTINF:-1, be mad
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3946?play_token=lK0GOBKWkU
 
 #EXTINF:-1, amc
 http://92.119.159.119:8080/geniptv/4faed690fd/1174
@@ -53,6 +62,72 @@ http://46.227.71.77:8080/geniptv/4faed690fd/25697
 
 #EXTINF:-1, AXN WHITE
 http://77.247.108.18:8080/geniptv/4faed690fd/1171
+
+#EXTINF:-1, fox
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64074
+
+#EXTINF:-1, Fox life
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64076
+
+#EXTINF:-1, comedy central
+http://103.136.40.217:8080/geniptv/4faed690fd/1164
+
+#EXTINF:-1, hollywood
+http://92.119.159.119:8080/geniptv/4faed690fd/90735
+
+#EXTINF:-1, calle 13
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64089
+
+#EXTINF:-1, dark
+http://87.121.52.66:8080/geniptv/4faed690fd/121514
+
+#EXTINF:-1, syfy
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64087
+
+#EXTINF:-1, sundance
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3900?play_token=YN10IYRJLp
+
+#EXTINF:-1, tcm
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64048
+
+#EXTINF:-1, tnt
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64051
+
+#EXTINF:-1, A3cine
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3794?play_token=egNxhUARyc
+
+#EXTINF:-1, bom
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3778?play_token=H8dpRIMBiN
+
+#EXTINF:-1, paramount network
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64053
+
+#EXTINF:-1, canal cocina
+http://103.136.40.217:8080/geniptv/4faed690fd/200449
+
+#EXTINF:-1, de casa
+http://103.136.42.171:8080/geniptv/4faed690fd/148754
+
+#EXTINF:-1, historia
+http://46.227.71.77:8080/geniptv/4faed690fd/10291
+
+#EXTINF:-1, national geographic
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64184
+
+#EXTINF:-1, national geographic wild
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64185
+
+#EXTINF:-1, odisea
+http://46.227.71.77:8080/geniptv/4faed690fd/271766
+
+#EXTINF:-1, blaze
+http://92.119.159.119:8080/geniptv/4faed690fd/202083
+
+#EXTINF:-1, discovery channel
+http://103.136.42.171:8080/geniptv/4faed690fd/1162
+
+#EXTINF:-1, dmax
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3759?play_token=6zCYhpFE95
 
 #EXTINF:-1, Movistar estrenos
 http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64031
@@ -70,13 +145,19 @@ http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64042
 http://87.121.52.66:8080/geniptv/4faed690fd/171845
 
 #EXTINF:-1, Movistar #0
-https://cortino3.mitopo.me/live/plus1/index.m3u8?token=Mf0hrmH-moYeAzwUuyimgw&expires=1608281254
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3878?play_token=Opj57Qg3e0
+
+#EXTINF:-1, movistar 0#
+http://hdhd.tk:80/aQUzJVUSMk/sJ0w0N3LU7/22471?play_token=Sy5dWLVBlA
 
 #EXTINF:-1, Movistar series
-https://perocomato152.caraponi.me/live/plusseries/index.m3u8?token=P6Pe9Xcrh9QNwG3gGT9QxA&expires=1608281309
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3909?play_token=Z2t9Mlj2wg
 
 #EXTINF:-1, Movistar seriesmania
 http://87.121.52.66:8080/geniptv/4faed690fd/174305
+
+#EXTINF:-1, movistar cine ñ
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3890?play_token=U39P5FBrZB
 
 #EXTINF:-1, Movistar vamos
 https://perocomato152.caraponi.me/live/vamos/index.m3u8?token=3xSFT6xNA2QIr1cemYuvJg&expires=1608281491
@@ -85,127 +166,22 @@ https://perocomato152.caraponi.me/live/vamos/index.m3u8?token=3xSFT6xNA2QIr1cemY
 http://77.247.108.32:8080/geniptv/4faed690fd/39881
 
 #EXTINF:-1, Movistar la liga opción 2
-https://perocomato152.caraponi.me/live/laliga2/index.m3u8?token=lbrZKGQv4k0t56-qbUnlRA&expires=1608281649
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64139
 
 #EXTINF:-1, Movistar liga de campeones
-https://perocomato152.caraponi.me/live/verliga5/index.m3u8?token=QkzMnLiqgbqwLDi_uaJjJA&expires=1608281827
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64123
 
-#EXTINF:-1, Movistar liga de campeones opción 2
-https://perocomato152.caraponi.me/live/verliga5/index.m3u8?token=6UIXq5slrbKT3kLiGyGtIQ&expires=1608281981
-
-#EXTINF:-1, Fox life
-https://cortino8.mitopo.me/live/foxlife/index.m3u8?token=OMBw1h2QbD4aczk80c2VkQ&expires=1608282048
-
-#EXTINF:-1, crimen investigacion
-http://103.136.42.168:8080/geniptv/4faed690fd/5292
-
-#EXTINF:-1, cosmo
-http://103.136.40.217:8080/geniptv/4faed690fd/8077
-
-#EXTINF:-1, blaze
-http://92.119.159.119:8080/geniptv/4faed690fd/202083
-
-#EXTINF:-1, MTV yo
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
-
-#EXTINF:-1, MTV pop
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-
-#EXTINF:-1, MTV party
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
-
-#EXTINF:-1, cazavisión
-https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
-
-#EXTINF:-1, Caza y pesca
-https://cortino4.mitopo.me/live/cazaypesca/index.m3u8?token=IPPGGkL54Wjs5t3QVKtQ_Q&expires=1608283468
-
-#EXTINF:-1, Eitb 1
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/63999
-
-#EXTINF:-1, Eitb 2
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8?sd=8&rebase=on
-
-#EXTINF:-1, baby tv
-http://87.121.52.66:8080/geniptv/4faed690fd/5302
-
-#EXTINF:-1, boing
-http://92.119.159.119:8080/geniptv/4faed690fd/1169
-
-#EXTINF:-1, kids tv
-https://livelist01.yowi.tv/lista/eede3daa45f98e0dce894da041ce520a22397517/index-f4-v1-a1.m3u8
-
-#EXTINF:-1, Cartoon network la
-http://45.71.202.210:50000/play/a01u/index.m3u8
-
-#EXTINF:-1, investication discovery
-https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CusE3PYEykpicrG0egCkG6nw5o-1zIHwcNH8fc6hXV385WfAkROzlSDV1Xa6cFjpdVv7sdcbX4d95Ba84rEWVXww5QvCEIe6txQca5_SN75-OP-MnpLf7j2Eoq_-LbaiTgM-8W8Jg97HPGg48olxseKqZuVZGggby1N7B8baaPBUttmbRK7N7NBSkc4iP4GzzEdsCx00XMt0Le8mF6rYdxPfNxkcbRTDlmMD_9D0xfCtaHTcxE7m-aBj049nFZhp_9LZPP32HNZBfSOYTeuAn5s6p6dB9pEjXvpbs2FupvCVUuhPpfIUCjxE08sOfke2pSLsFgj0FHzi80lXqZVP_bKzZP_DFeuVpIWyuQ0mExsjfTRuUizAHKrinL0sdn-GJwEYPGv3G3-0ldqZpnnp72pLNt5uhE75qjBfJhiortfPz0tPnW-ep7KRDys-jSdVLdy2N6TlfW4tlpx7_oZnZi4mGgF9GdNou7NJeDLLy83-VJ-AXbMP_Lk96kcZ7jmCkV1gv5SWLR6vkcD8881ch4t9ndrBmYYCNsg4gmE4d7EFlmmKpRT1CkPxYMV62b5MVbBJXFBm5EoNxKkVKkAflbjuPBqszgYzyZ3RHJ4PLedHaIXTj3d7vkVPaX5kB3CK-LmbDgrN2sGWhbHyGxzM0YXJDgQPP1JY0ZjRWOQf8zsUTuypQ3O-QJfwZpKEhjf71Cy0wNyodzX6hKhrUA5NkqhDrMJ0KHEGgYQuc9DQ53m7V6V0_NlBxQ_Lfi9eMjSY7Zq4OmS1uoVboowGbcnO6XjdqXsFPz0arn35Q6bP0GO1369Ril6IiTdFafzS8RIQ0m0LeUk5Mm-lGOa5uXkHARoMRgoPDgz7I2guoYqq.m3u8
-
-#EXTINF:-1, Dragon ball z 24 horas
-http://89.105.194.59:25461/live/spen!$F10$/spen!$F10$/69.m3u8
-
-#EXTINF:-1, Boomerang
-http://89.105.194.59:25461/live/spinft50/spinft50/62.m3u8
-
-#EXTINF:-1, Azteca 7
-http://89.105.194.59:25461/live/mx1XX$$N!/mx1XX$$N!/33.m3u8
-
-#EXTINF:-1, Tv3
-https://directes-tv-es.ccma.cat/es/ngrp:c33_web/chunklist_b1327104.m3u8
-
-#EXTINF:-1, Animal planet
-http://45.71.202.210:50000/play/a00o/index.m3u8
-
-#EXTINF:-1, CAILLOU
-http://zutv.online:2086/live/aefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaADWergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawerg/aefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawerg/3.m3u8
-
-#EXTINF:-1, Peliculas de terror
-http://zutv.online:2086/live/aefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaADWergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawerg/aefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawerg/57.m3u8
-
-#EXTINF:-1, A punt
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
-
-#EXTINF:-1, Anime clasico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=875defaf-e4f7-4d6e-85d6-22967d38555f&deviceVersion=90.0.4430.212&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&deviceType=web&deviceMake=Chrome&sid=63049d11-b71a-11eb-a3b1-0242ac110002&advertisingId=&deviceLat=37.3831&deviceLon=-5.9707&deviceDNT=0&deviceModel=web&userId=&appName=web
-
-#EXTINF:-1, canal cocina
-http://103.136.40.217:8080/geniptv/4faed690fd/200449
-
-#EXTINF:-1, de casa
-http://103.136.42.171:8080/geniptv/4faed690fd/148754
-
-#EXTINF:-1, historia
-http://46.227.71.77:8080/geniptv/4faed690fd/10291
-
-#EXTINF:-1, hollywood
-http://92.119.159.119:8080/geniptv/4faed690fd/90735
+#EXTINF:-1, movistar deporte
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64113
 
 #EXTINF:-1, movistar golf
 http://77.247.108.32:8080/geniptv/4faed690fd/7733
 
-#EXTINF:-1, toros
-http://92.119.159.119:8080/geniptv/4faed690fd/192250
-
-#EXTINF:-1, caza y pesca
-http://103.136.42.168:8080/geniptv/4faed690fd/269890
-
-#EXTINF:-1, clan
-http://103.136.40.217:8080/geniptv/4faed690fd/2214
-
-#EXTINF:-1, comedy central
-http://103.136.40.217:8080/geniptv/4faed690fd/1164
-
 #EXTINF:-1, movistar
 http://77.247.108.32:8080/geniptv/4faed690fd/174339
 
-#EXTINF:-1, odisea
-http://46.227.71.77:8080/geniptv/4faed690fd/271766
-
-#EXTINF:-1, canal panda
-http://46.227.71.77:8080/geniptv/4faed690fd/198830
-
-#EXTINF:-1, dark
-http://87.121.52.66:8080/geniptv/4faed690fd/121514
+#EXTINF:-1, toros
+http://92.119.159.119:8080/geniptv/4faed690fd/192250
 
 #EXTINF:-1, dazn 1
 http://46.227.71.77:8080/geniptv/4faed690fd/64711
@@ -219,26 +195,119 @@ http://92.119.159.119:8080/geniptv/4faed690fd/269912
 #EXTINF:-1, dazn F1
 http://103.136.42.168:8080/geniptv/4faed690fd/278382
 
-#EXTINF:-1, discovery channel
-http://103.136.42.171:8080/geniptv/4faed690fd/1162
+#EXTINF:-1, eurosport1
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3871?play_token=e3W0a4iGV9
 
-#EXTINF:-1, disney +
-http://92.119.159.119:8080/geniptv/4faed690fd/168989
+#EXTINF:-1, eurosport2
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3873?play_token=pBuTlxEqqY
+
+#EXTINF:-1, real madrid tv
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64145
+
+#EXTINF:-1, crimen investigacion
+http://103.136.42.168:8080/geniptv/4faed690fd/5292
+
+#EXTINF:-1, cosmo
+http://103.136.40.217:8080/geniptv/4faed690fd/8077
+
+#EXTINF:-1, mtv españa
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64204
+
+#EXTINF:-1, MTV yo
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3796?play_token=2qQnYTJFeG
+
+#EXTINF:-1, MTV pop
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3797?play_token=y12rExBQf3
+
+#EXTINF:-1, MTV party
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3798?play_token=lJ2wrRSe6h
+
+#EXTINF:-1, cazavisión
+https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
+
+#EXTINF:-1, Caza y pesca
+http://103.136.42.168:8080/geniptv/4faed690fd/269890
+
+#EXTINF:-1, iberalia
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3966?play_token=6BbUuqiMv3
+
+#EXTINF:-1, viajar
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3960?play_token=w733EZA7Eh
+
+#EXTINF:-1, Eitb 1
+http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/63999
+
+#EXTINF:-1, Eitb 2
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8?sd=8&rebase=on
 
 #EXTINF:-1, andalucia tv
 http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64026
 
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1, baby tv
+http://87.121.52.66:8080/geniptv/4faed690fd/5302
+
+#EXTINF:-1, clan
+http://103.136.40.217:8080/geniptv/4faed690fd/2214
+
+#EXTINF:-1, boing
+http://92.119.159.119:8080/geniptv/4faed690fd/1169
+
+#EXTINF:-1, canal panda
+http://46.227.71.77:8080/geniptv/4faed690fd/198830
+
+#EXTINF:-1, disney +
+http://92.119.159.119:8080/geniptv/4faed690fd/168989
+
+#EXTINF:-1, disney channel
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3982?play_token=68CWqjCPVA
+
+#EXTINF:-1, disney junior
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3991?play_token=giNywdp8TV
+
+#EXTINF:-1, nick jr
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3990?play_token=OLlvXfMzEw
+
+#EXTINF:-1, nickelodeon
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3989?play_token=XT73YuYsXz
+
+#EXTINF:-1, pequerradio tv
+http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3987?play_token=GPPFIg44PB
+
+#EXTINF:-1, Cartoon network la
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/114_.m3u8?token=8oW6ZGJB-cI-2sUZIQbWLw&expires=1622811256
+
+#EXTINF:-1, Boomerang
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/115_.m3u8?token=40r3sE-xjxpGYz_JdTV6vQ&expires=1622811205
+
+#EXTINF:-1, Azteca 7
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/1_.m3u8?token=lreZYFp1seTxppnCieB-gQ&expires=1622811131
+
+#EXTINF:-1, Tv3
+https://directes-tv-es.ccma.cat/es/ngrp:c33_web/chunklist_b1327104.m3u8
+
+#EXTINF:-1, Animal planet
+http://45.71.202.210:50000/play/a00o/index.m3u8
+
+#EXTINF:-1, A punt
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1, a3series
+http://hdhd.tk:80/aQUzJVUSMk/sJ0w0N3LU7/22475?play_token=c57295k4vj
+
+#EXTINF:-1, barça tv
+http://hdhd.tk:80/aQUzJVUSMk/sJ0w0N3LU7/22486?play_token=1j5foRE6uA
+
+#EXTINF:-1, gol
+http://hdhd.tk:80/aQUzJVUSMk/sJ0w0N3LU7/22619?play_token=7wvhhFeKDr
+
+#EXTINF:-1, movistar vamos
+http://hdhd.tk:80/aQUzJVUSMk/sJ0w0N3LU7/22613?play_token=JGCV3Rr9jU
+
+#EXTINF:-1, sevillafc
+http://clientportal-worldiptv.club:8080/CnNqdq3ZmN/4rEJNgdc8M/42077?play_token=fuLYaTzi6b
+
+#EXTINF:-1, sol
+http://clientportal-worldiptv.club:8080/CnNqdq3ZmN/4rEJNgdc8M/42571?play_token=SfuzODMbsQ
+
+#EXTINF:-1, u-beat
+http://clientportal-worldiptv.club:8080/CnNqdq3ZmN/4rEJNgdc8M/26924?play_token=sD6PDoStyG
