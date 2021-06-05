@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1, La 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?sd=10&rebase=on
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684599.ts
 
 #EXTINF:-1, La 2
-https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684602.ts
 
 #EXTINF:-1, Antena 3
-http://77.247.108.17:8080/geniptv/4faed690fd/1173
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684604.ts
 
 #EXTINF:-1, Cuatro
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/67457
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684607.ts
 
 #EXTINF:-1, Telecinco
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64007
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684610.ts
 
 #EXTINF:-1, La sexta
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64009
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684613.ts
 
 #EXTINF:-1, Canal sur
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2754.ts
 
 #EXTINF:-1, Dkiss
 http://91.126.141.201:1935/live/kiss/chunklist_w722958382.m3u8
@@ -31,208 +31,232 @@ http://91.126.141.201:1935/live/ten/chunklist_w39037290.m3u8
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1608279596~acl=%2fi%2fmtmad_1%40744785%2f*~data=hdntl~hmac=4e8aa3f8ce53746a7928362383b3cb4ead96448fdb371cc11b4ef38ec8ab3845
 
 #EXTINF:-1, Neox
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64019
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684615.ts
 
 #EXTINF:-1, Nova
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64016
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684618.ts
 
 #EXTINF:-1, Mega
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3757?play_token=fG5Hi6hTf0
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684625.ts
 
 #EXTINF:-1, A3series
-https://directo.atresmedia.com/1608222629_55d28756bec4c5542663e506c9a110a3d25dc3e0/geoa3series/bitrate_3.m3u8
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684635.ts
 
 #EXTINF:-1, divinity
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64104
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684634.ts
 
 #EXTINF:-1, energy
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64101
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684629.ts
 
 #EXTINF:-1, FDF
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3755?play_token=BDHlaEAWcD
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684627.ts
 
 #EXTINF:-1, be mad
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3946?play_token=lK0GOBKWkU
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684622.ts
+
+#EXTINF:-1, Star tve
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/30472.ts
 
 #EXTINF:-1, amc
-http://92.119.159.119:8080/geniptv/4faed690fd/1174
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684779.ts
 
 #EXTINF:-1, AXN
-http://46.227.71.77:8080/geniptv/4faed690fd/25697
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684791.ts
 
 #EXTINF:-1, AXN WHITE
-http://77.247.108.18:8080/geniptv/4faed690fd/1171
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684794.ts
 
 #EXTINF:-1, fox
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64074
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684785.ts
 
 #EXTINF:-1, Fox life
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64076
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684788.ts
 
 #EXTINF:-1, comedy central
-http://103.136.40.217:8080/geniptv/4faed690fd/1164
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684804.ts
 
 #EXTINF:-1, hollywood
-http://92.119.159.119:8080/geniptv/4faed690fd/90735
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684830.ts
 
 #EXTINF:-1, calle 13
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64089
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684800.ts
 
 #EXTINF:-1, dark
-http://87.121.52.66:8080/geniptv/4faed690fd/121514
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684832.ts
+
+#EXTINF:-1, XTRM
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684824.ts
 
 #EXTINF:-1, syfy
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64087
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684782.ts
+
+#EXTINF:-1, Somos
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684834.ts
 
 #EXTINF:-1, sundance
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3900?play_token=YN10IYRJLp
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684827.ts
 
 #EXTINF:-1, tcm
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64048
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684836.ts
 
 #EXTINF:-1, tnt
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64051
-
-#EXTINF:-1, A3cine
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3794?play_token=egNxhUARyc
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684797.ts
 
 #EXTINF:-1, bom
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3778?play_token=H8dpRIMBiN
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684639.ts
 
 #EXTINF:-1, paramount network
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64053
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684801.ts
 
 #EXTINF:-1, canal cocina
-http://103.136.40.217:8080/geniptv/4faed690fd/200449
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684885.ts
 
 #EXTINF:-1, de casa
-http://103.136.42.171:8080/geniptv/4faed690fd/148754
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684882.ts
 
 #EXTINF:-1, historia
-http://46.227.71.77:8080/geniptv/4faed690fd/10291
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684873.ts
 
 #EXTINF:-1, national geographic
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64184
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684866.ts
 
 #EXTINF:-1, national geographic wild
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64185
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684869.ts
 
 #EXTINF:-1, odisea
-http://46.227.71.77:8080/geniptv/4faed690fd/271766
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684863.ts
 
 #EXTINF:-1, blaze
-http://92.119.159.119:8080/geniptv/4faed690fd/202083
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2925.ts
 
 #EXTINF:-1, discovery channel
-http://103.136.42.171:8080/geniptv/4faed690fd/1162
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684874.ts
 
 #EXTINF:-1, dmax
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3759?play_token=6zCYhpFE95
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684631.ts
 
 #EXTINF:-1, Movistar estrenos
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64031
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684807.ts
 
 #EXTINF:-1, Movistar acción
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64037
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684821.ts
 
-#EXTINF:-1, Movistar cine
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64034
+#EXTINF:-1, Movistar cinedoc&roll
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684816.ts
 
 #EXTINF:-1, Movistar drama
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64042
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684810.ts
 
 #EXTINF:-1, Movistar comedia
-http://87.121.52.66:8080/geniptv/4faed690fd/171845
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684813.ts
 
 #EXTINF:-1, Movistar #0
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3878?play_token=Opj57Qg3e0
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684769.ts
 
-#EXTINF:-1, movistar 0#
-http://hdhd.tk:80/aQUzJVUSMk/sJ0w0N3LU7/22471?play_token=Sy5dWLVBlA
+#EXTINF:-1, movistar vhs
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/759199.ts
 
 #EXTINF:-1, Movistar series
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3909?play_token=Z2t9Mlj2wg
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684772.ts
 
 #EXTINF:-1, Movistar seriesmania
-http://87.121.52.66:8080/geniptv/4faed690fd/174305
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684775.ts
 
 #EXTINF:-1, movistar cine ñ
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3890?play_token=U39P5FBrZB
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684818.ts
 
-#EXTINF:-1, Movistar vamos
-https://perocomato152.caraponi.me/live/vamos/index.m3u8?token=3xSFT6xNA2QIr1cemYuvJg&expires=1608281491
+#EXTINF:-1, Movistar #vamos
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684738.ts
 
 #EXTINF:-1, Movistar la liga
-http://77.247.108.32:8080/geniptv/4faed690fd/39881
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684686.ts
 
-#EXTINF:-1, Movistar la liga opción 2
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64139
+#EXTINF:-1, Movistar la liga tv bar
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684704.ts
 
 #EXTINF:-1, Movistar liga de campeones
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64123
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684711.ts
 
 #EXTINF:-1, movistar deporte
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64113
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684747.ts
 
 #EXTINF:-1, movistar golf
-http://77.247.108.32:8080/geniptv/4faed690fd/7733
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684759.ts
 
-#EXTINF:-1, movistar
-http://77.247.108.32:8080/geniptv/4faed690fd/174339
+#EXTINF:-1, teledeporte
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684766.ts
 
 #EXTINF:-1, toros
-http://92.119.159.119:8080/geniptv/4faed690fd/192250
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684893.ts
 
 #EXTINF:-1, dazn 1
-http://46.227.71.77:8080/geniptv/4faed690fd/64711
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/756895.ts
 
 #EXTINF:-1, dazn 2
-http://103.136.40.217:8080/geniptv/4faed690fd/64712
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/756896.ts
 
 #EXTINF:-1, dazn 3
-http://92.119.159.119:8080/geniptv/4faed690fd/269912
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/763543.ts
 
 #EXTINF:-1, dazn F1
-http://103.136.42.168:8080/geniptv/4faed690fd/278382
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684744.ts
 
 #EXTINF:-1, eurosport1
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3871?play_token=e3W0a4iGV9
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684762.ts
 
 #EXTINF:-1, eurosport2
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3873?play_token=pBuTlxEqqY
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684764.ts
+
+#EXTINF:-1, multideporte
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684734.ts
+
+#EXTINF:-1, multideporte pantalla
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2866.ts
 
 #EXTINF:-1, real madrid tv
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64145
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684728.ts
+
+#EXTINF:-1, barça tv
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684729.ts
+
+#EXTINF:-1, sevillafc
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2839.ts
+
+#EXTINF:-1, Betis tv
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2840.ts
+
+#EXTINF:-1, gol
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684730.ts
 
 #EXTINF:-1, crimen investigacion
-http://103.136.42.168:8080/geniptv/4faed690fd/5292
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684878.ts
 
 #EXTINF:-1, cosmo
-http://103.136.40.217:8080/geniptv/4faed690fd/8077
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684888.ts
 
 #EXTINF:-1, mtv españa
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64204
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684900.ts
 
-#EXTINF:-1, MTV yo
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3796?play_token=2qQnYTJFeG
+#EXTINF:-1, sol
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2954.ts
 
-#EXTINF:-1, MTV pop
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3797?play_token=y12rExBQf3
+#EXTINF:-1,String clasica
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684901.ts
 
-#EXTINF:-1, MTV party
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3798?play_token=lJ2wrRSe6h
+#EXTINF:-1, MEZZO tv
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684904.ts
 
 #EXTINF:-1, cazavisión
-https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/685410.ts
 
 #EXTINF:-1, Caza y pesca
-http://103.136.42.168:8080/geniptv/4faed690fd/269890
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684897.ts
 
 #EXTINF:-1, iberalia
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3966?play_token=6BbUuqiMv3
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684894.ts
 
 #EXTINF:-1, viajar
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3960?play_token=w733EZA7Eh
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684861.ts
 
 #EXTINF:-1, Eitb 1
 http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/63999
@@ -241,43 +265,40 @@ http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/63999
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8?sd=8&rebase=on
 
 #EXTINF:-1, andalucia tv
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/64026
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2768.ts
 
 #EXTINF:-1, baby tv
-http://87.121.52.66:8080/geniptv/4faed690fd/5302
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684854.ts
 
 #EXTINF:-1, clan
-http://103.136.40.217:8080/geniptv/4faed690fd/2214
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684843.ts
 
 #EXTINF:-1, boing
-http://92.119.159.119:8080/geniptv/4faed690fd/1169
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684855.ts
 
 #EXTINF:-1, canal panda
-http://46.227.71.77:8080/geniptv/4faed690fd/198830
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684857.ts
+
+#EXTINF:-1, Dreamworks
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/759196.ts
 
 #EXTINF:-1, disney +
-http://92.119.159.119:8080/geniptv/4faed690fd/168989
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/685409.ts
 
 #EXTINF:-1, disney channel
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3982?play_token=68CWqjCPVA
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684852.ts
 
 #EXTINF:-1, disney junior
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3991?play_token=giNywdp8TV
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684850.ts
 
 #EXTINF:-1, nick jr
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3990?play_token=OLlvXfMzEw
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684848.ts
 
 #EXTINF:-1, nickelodeon
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3989?play_token=XT73YuYsXz
-
-#EXTINF:-1, pequerradio tv
-http://tvx.pythoniptv.stream:8080/wRXhkuCGBa/ANNTaiDMbY/3987?play_token=GPPFIg44PB
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684846.ts
 
 #EXTINF:-1, Cartoon network la
-https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/114_.m3u8?token=8oW6ZGJB-cI-2sUZIQbWLw&expires=1622811256
-
-#EXTINF:-1, Boomerang
-https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/115_.m3u8?token=40r3sE-xjxpGYz_JdTV6vQ&expires=1622811205
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2840.ts
 
 #EXTINF:-1, Azteca 7
 https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/1_.m3u8?token=lreZYFp1seTxppnCieB-gQ&expires=1622811131
@@ -291,23 +312,8 @@ http://45.71.202.210:50000/play/a00o/index.m3u8
 #EXTINF:-1, A punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1, a3series
-http://hdhd.tk:80/aQUzJVUSMk/sJ0w0N3LU7/22475?play_token=c57295k4vj
+#EXTINF:-1, NASA tv
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/767922.ts
 
-#EXTINF:-1, barça tv
-http://hdhd.tk:80/aQUzJVUSMk/sJ0w0N3LU7/22486?play_token=1j5foRE6uA
-
-#EXTINF:-1, gol
-http://hdhd.tk:80/aQUzJVUSMk/sJ0w0N3LU7/22619?play_token=7wvhhFeKDr
-
-#EXTINF:-1, movistar vamos
-http://hdhd.tk:80/aQUzJVUSMk/sJ0w0N3LU7/22613?play_token=JGCV3Rr9jU
-
-#EXTINF:-1, sevillafc
-http://clientportal-worldiptv.club:8080/CnNqdq3ZmN/4rEJNgdc8M/42077?play_token=fuLYaTzi6b
-
-#EXTINF:-1, sol
-http://clientportal-worldiptv.club:8080/CnNqdq3ZmN/4rEJNgdc8M/42571?play_token=SfuzODMbsQ
-
-#EXTINF:-1, u-beat
-http://clientportal-worldiptv.club:8080/CnNqdq3ZmN/4rEJNgdc8M/26924?play_token=sD6PDoStyG
+#EXTINF:-1, fashion tv
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/767923.ts
