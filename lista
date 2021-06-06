@@ -51,7 +51,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684629.ts
 #EXTINF:-1, FDF
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684627.ts
 
-#EXTINF:-1, be mad HD
+#EXTINF:-1, tvg-id="BeMadTV.es" BE MAD TV HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684622.ts
 
 #EXTINF:-1, Star tve FHD
@@ -81,10 +81,10 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684830.ts
 #EXTINF:-1, calle 13 FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684800.ts
 
-#EXTINF:-1, dark FHD
+#EXTINF:-1, tvg-id="Dark.es" Dark FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684832.ts
 
-#EXTINF:-1, XTRM FHD
+#EXTINF:-1, XTRM
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684824.ts
 
 #EXTINF:-1, syfy FHD
@@ -135,6 +135,12 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684874.ts
 #EXTINF:-1, dmax
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684631.ts
 
+#EXTINF:-1, tvg-id"CrimeAndInvestigation.es" crimen + investigación HD
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684878.ts
+
+#EXTINF:-1, cosmo FHD
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684888.ts
+
 #EXTINF:-1, Movistar estrenos HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684807.ts
 
@@ -150,7 +156,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684810.ts
 #EXTINF:-1, Movistar comedia HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684813.ts
 
-#EXTINF:-1, Movistar #0 HD
+#EXTINF:-1, tvg-id="Hashtag0.es" Movistar #0 HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684769.ts
 
 #EXTINF:-1, movistar vhs 
@@ -165,7 +171,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684775.ts
 #EXTINF:-1, movistar cine ñ
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684818.ts
 
-#EXTINF:-1, Movistar #vamos HD
+#EXTINF:-1, tvg-id="Vamos.es" Movistar #vamos HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684738.ts
 
 #EXTINF:-1, Movistar la liga HD
@@ -228,12 +234,6 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2840.ts
 #EXTINF:-1, gol
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684730.ts
 
-#EXTINF:-1, crimen investigacion HD
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684878.ts
-
-#EXTINF:-1, cosmo FHD
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684888.ts
-
 #EXTINF:-1, mtv españa
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684900.ts
 
@@ -276,13 +276,13 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684843.ts
 #EXTINF:-1, boing FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684855.ts
 
-#EXTINF:-1, canal panda HD
+#EXTINF:-1, canal panda
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684857.ts
 
 #EXTINF:-1, Dreamworks FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/759196.ts
 
-#EXTINF:-1, disney + HD
+#EXTINF:-1, tvg-id="Disney+.es" disney + HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/685409.ts
 
 #EXTINF:-1, disney channel HD
@@ -297,7 +297,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684848.ts
 #EXTINF:-1, nickelodeon FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684846.ts
 
-#EXTINF:-1, Cartoon network la FHD
+#EXTINF:-1, tvg-id="CartoonNetwork.mx" Cartoon network
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/15959.ts
 
 #EXTINF:-1, Animal planet
@@ -362,3 +362,31 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18476.ts
 
 #EXTINF:-1, Telemundo FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/736085.ts
+
+#EXTINF:-1, tlnovelas FHD
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/16042.ts
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+
