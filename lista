@@ -393,17 +393,51 @@ http://ventdelnord.tv:8080/mola/directe.m3u8&mode=12
 #EXTINF:-1, Rakuten tv
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/3000.m3u8
 
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1, Alquiler 1
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777858.ts
+
+#EXTINF:-1, Alquiler 2
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777858.ts
+
+#EXTINF:-1, Alquiler 3
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777859.ts
+
+#EXTINF:-1, Alquiler 4
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777860.ts
+
+#EXTINF:-1, Alquiler 5
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777861.ts
+
+#EXTINF:-1, TAQUILLA ACCION
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777862.ts
+
+#EXTINF:-1, TAQUILLA COMEDIA
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777863.ts
+
+#EXTINF:-1, TAQUILLA ANIMACION
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777864.ts
+
+#EXTINF:-1, TAQUILLA CIENCIA FICCION
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777865.ts
+
+#EXTINF:-1, TAQUILLA CRIMEN
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777866.ts
+
+#EXTINF:-1, TAQUILLA TERROR
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777867.ts
+
+#EXTINF:-1, TAQUILLA DRAMA
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777868.ts
+
+#EXTINF:-1, TAQUILLA FANTASIA
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777869.ts
+
+#EXTINF:-1, TAQUILLA HARRY POTTER
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777870.ts
+
+#EXTINF:-1, TAQUILLA STAR WARS
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777871.ts
+
+#EXTINF:-1, TAQUILLA XMEN
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/777872.ts
 
