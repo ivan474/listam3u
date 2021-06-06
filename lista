@@ -24,7 +24,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2754.ts
 #EXTINF:-1, Dkiss
 http://91.126.141.201:1935/live/kiss/chunklist_w722958382.m3u8
 
-#EXTINF:-1, tvg-id="TEN.es" TEN
+#EXTINF:-1 tvg-id="TEN.es", TEN
 http://91.126.141.201:1935/live/ten/chunklist_w39037290.m3u8
 
 #EXTINF:-1, mtmad HD
@@ -39,7 +39,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684618.ts
 #EXTINF:-1, MEGA
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684625.ts
 
-#EXTINF:-1, tvg-id="A3seriesHD.es" Atreseries
+#EXTINF:-1 tvg-id="A3seriesHD.es", Atreseries
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684635.ts
 
 #EXTINF:-1, divinity
@@ -69,7 +69,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684794.ts
 #EXTINF:-1, Fox ES
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684785.ts
 
-#EXTINF:-1, tvg-id="FoxLife.es" Fox Life ES
+#EXTINF:-1 tvg-id="FoxLife.es", Fox Life ES
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684788.ts
 
 #EXTINF:-1, comedy central FHD
@@ -81,7 +81,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684830.ts
 #EXTINF:-1, calle 13 FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684800.ts
 
-#EXTINF:-1, tvg-id="Dark.es" Dark FHD
+#EXTINF:-1 tvg-id="Dark.es", Dark FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684832.ts
 
 #EXTINF:-1, XTRM
@@ -93,10 +93,10 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684782.ts
 #EXTINF:-1, Somos
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684834.ts
 
-#EXTINF:-1, tvg-id="Sundance.es" sundance ES
+#EXTINF:-1 tvg-id="Sundance.es", sundance ES
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684827.ts
 
-#EXTINF:-1, tvg-id="TCM.sp" TCM
+#EXTINF:-1 tvg-id="TCM.sp", TCM
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684836.ts
 
 #EXTINF:-1, TNT FHD
@@ -126,7 +126,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684869.ts
 #EXTINF:-1, odisea FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684863.ts
 
-#EXTINF:-1, BLAZE ES tvg-id="movistarplus.es"
+#EXTINF:-1, BLAZE ES 
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2925.ts
 
 #EXTINF:-1, discovery channel 
@@ -147,7 +147,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684807.ts
 #EXTINF:-1, Movistar acción HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684821.ts
 
-#EXTINF:-1, Movistar CineDoc&Roll tvg-id="M.CineDocRoll.es"
+#EXTINF:-1 tvg-id="M.CineDocRoll.es", Movistar CineDoc&Roll
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684816.ts
 
 #EXTINF:-1, Movistar Drama HD
@@ -156,7 +156,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684810.ts
 #EXTINF:-1, Movistar comedia HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684813.ts
 
-#EXTINF:-1, tvg-id="Hashtag0.es" Movistar #0 HD
+#EXTINF:-1 tvg-id="Hashtag0.es", Movistar #0 HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684769.ts
 
 #EXTINF:-1, movistar vhs 
@@ -171,7 +171,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684775.ts
 #EXTINF:-1, movistar cine español
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684818.ts
 
-#EXTINF:-1, tvg-id="Vamos.es" Movistar #vamos HD
+#EXTINF:-1 tvg-id="Vamos.es", Movistar #vamos HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684738.ts
 
 #EXTINF:-1, Movistar LaLiga
@@ -297,7 +297,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684848.ts
 #EXTINF:-1, nickelodeon FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684846.ts
 
-#EXTINF:-1, tvg-id="CartoonNetwork.mx" Cartoon network
+#EXTINF:-1 tvg-id="CartoonNetwork.mx", Cartoon network
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/15959.ts
 
 #EXTINF:-1, Animal planet
