@@ -447,10 +447,18 @@ http://tvpremiumhd.club/lista-gratuita/213405/on/lives.php?id=cdn01.yowi.tv/KQRS
 #EXTINF:-1, extrema tv
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1397456563.m3u8
 
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1, u-beat 1
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2953.ts
+
+#EXTINF:-1, u-beat 2
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/704767.ts
+
+#EXTINF:-1, iberalia 100% caza
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/764239.ts
+
+#EXTINF:-1, iberalia 100% pesca
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/764242.ts
+
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
