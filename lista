@@ -273,7 +273,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684854.ts
 #EXTINF:-1, clan
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684843.ts
 
-#EXTINF:-1, boing FHD
+#EXTINF:-1 tvg-id="Boing.es", boing FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684855.ts
 
 #EXTINF:-1, canal panda
