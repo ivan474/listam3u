@@ -126,7 +126,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684869.ts
 #EXTINF:-1, odisea FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684863.ts
 
-#EXTINF:-1, BLAZE ES 
+#EXTINF:-1 tvg-id="Blaze.es", BLAZE ES 
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2925.ts
 
 #EXTINF:-1, discovery channel 
@@ -177,13 +177,13 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684738.ts
 #EXTINF:-1, Movistar LaLiga
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684686.ts
 
-#EXTINF:-1, Movistar LaLigaTV Bar
+#EXTINF:-1 tvg-id="LaLigaTVBar.es", Movistar LaLigaTV Bar
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684704.ts
 
 #EXTINF:-1, Movistar Liga de Campeones 
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684711.ts
 
-#EXTINF:-1, movistar deporte
+#EXTINF:-1 tvg-id="CanalPlusDeportes.es", movistar deporte
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684747.ts
 
 #EXTINF:-1, movistar golf HD
@@ -243,16 +243,16 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2954.ts
 #EXTINF:-1,String clasica HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684901.ts
 
-#EXTINF:-1, MEZZO tv
+#EXTINF:-1 tvg-id="Mezzo.es", MEZZO tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684904.ts
 
-#EXTINF:-1, cazavisión FHD
+#EXTINF:-1 tvg-id="Cazavision.es", cazavisión FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/685410.ts
 
-#EXTINF:-1, Caza y pesca FHD
+#EXTINF:-1 tvg-id="CazayPesca.es", Caza y pesca FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684897.ts
 
-#EXTINF:-1, iberalia
+#EXTINF:-1 tvg-id="IberaliaTV.es", iberalia
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684894.ts
 
 #EXTINF:-1, viajar FHD
