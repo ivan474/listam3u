@@ -28,7 +28,7 @@ http://91.126.141.201:1935/live/kiss/chunklist_w722958382.m3u8
 http://91.126.141.201:1935/live/ten/chunklist_w39037290.m3u8
 
 #EXTINF:-1, mtmad HD
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1608279596~acl=%2fi%2fmtmad_1%40744785%2f*~data=hdntl~hmac=4e8aa3f8ce53746a7928362383b3cb4ead96448fdb371cc11b4ef38ec8ab3845
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 
 #EXTINF:-1, Neox
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684615.ts
@@ -261,11 +261,11 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684894.ts
 #EXTINF:-1, viajar FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684861.ts
 
-#EXTINF:-1, Eitb 1
-http://77.244.222.172:88/Tomtree2021ex/a5Xfdrmk8phtJDhD/63999
+#EXTINF:-1, Etb 1
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2740.ts
 
-#EXTINF:-1, Eitb 2 HD
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8?sd=8&rebase=on
+#EXTINF:-1, Etb 2 HD
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2739.ts
 
 #EXTINF:-1, andalucia tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2768.ts
@@ -476,6 +476,73 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/15800.ts
 
 #EXTINF:-1, tv ashasi
 https://vsd90.mycdn.me/hls/1291018242676.m3u8/sig/N528DOP6mys/expires/1623488445823/srcIp/213.194.185.105/urls/185.226.53.69/clientType/0/srcAg/CHROME_ANDROID/mid/2726911745652/1291018242676_high/index.m3u8?p
+
+#EXTINF:-1, Portal foxmix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1, pequerradio tv
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1, PTV málaga
+https://streamer.zapitv.com/PTV_Malaga/index.m3u8
+
+#EXTINF:-1, PTV granada
+https://streamer.zapitv.com/GRANADA/index.m3u8
+
+#EXTINF:-1, PTV cordoba
+https://streamer.zapitv.com/PTV-CORDOBA/index.m3u8
+
+#EXTINF:-1, PTV sevilla
+https://streamer.zapitv.com/PTV-SEVILLA/index.m3u8
+
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
+#EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
