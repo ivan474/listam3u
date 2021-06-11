@@ -15,7 +15,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684607.ts
 #EXTINF:-1 tvg-id="TV Guia_Telecinco.tutvguia.com" tvg-name="Telecinco.tutvguia.com" tvg-logo="telecinco.png", Telecinco
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684610.ts
 
-#EXTINF:-1 tvg-id="TV Guia_laSexta.tutvguia.com" tvg-name="laSexta.tutvguia.com" tvg-logo="laSexta_atresmedia.png", La sexta HD
+#EXTINF:-1 tvg-id="TV Guia_laSexta.tutvguia.com" tvg-name="laSexta.tutvguia.com" tvg-logo="laSexta_atresmedia.png", La sexta
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684613.ts
 
 #EXTINF:-1 tvg-id="CanalSur1.es", Canal sur FHD
@@ -135,7 +135,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684874.ts
 #EXTINF:-1, dmax
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684631.ts
 
-#EXTINF:-1 tvg.name="C+I", Crimen + Investigación
+#EXTINF:-1 tvg-id="TV Guia_Crimen-Investigacion_ES.tutvguia.com" tvg-name="Crimen-Investigacion_ES.tutvguia.com" tvg-logo="ci.png", Crimen + Investigación
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684878.ts
 
 #EXTINF:-1 tvg-name="cosmo", cosmo FHD
@@ -258,7 +258,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684897.ts
 #EXTINF:-1 tvg-id="IberaliaTV.es", iberalia
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684894.ts
 
-#EXTINF:-1, viajar FHD
+#EXTINF:-1 tvg-id="TV Guia_Viajar.tutvguia.com" tvg-name="Viajar.tutvguia.com" tvg-logo="viajar.png", viajar
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684861.ts
 
 #EXTINF:-1, Etb 1
