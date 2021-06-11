@@ -177,7 +177,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684738.ts
 #EXTINF:-1, Movistar LaLiga
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684686.ts
 
-#EXTINF:-1 tvg-id="LaLigaTVBar.es", Movistar LaLigaTV Bar
+#EXTINF:-1 tvg-id="LaLigaTVBar.es", LaLigaTV Bar
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684704.ts
 
 #EXTINF:-1, Movistar Liga de Campeones 
@@ -186,31 +186,31 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684711.ts
 #EXTINF:-1 tvg-id="CanalPlusDeportes.es", movistar deporte
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684747.ts
 
-#EXTINF:-1, movistar golf HD
+#EXTINF:-1, movistar golf
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684759.ts
 
-#EXTINF:-1, teledeporte HD
+#EXTINF:-1, teledeporte
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684766.ts
 
-#EXTINF:-1, toros FHD
+#EXTINF:-1, toros
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684893.ts
 
-#EXTINF:-1, dazn 1 HD
+#EXTINF:-1, dazn 1
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/756895.ts
 
-#EXTINF:-1, dazn 2 HD
+#EXTINF:-1, dazn 2
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/756896.ts
 
-#EXTINF:-1, dazn 3 HD
+#EXTINF:-1, dazn 3
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/763543.ts
 
-#EXTINF:-1, dazn F1 HD
+#EXTINF:-1, dazn F1
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684744.ts
 
-#EXTINF:-1, eurosport 1 ES
+#EXTINF:-1, eurosport 1
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684762.ts
 
-#EXTINF:-1, eurosport 2 ES
+#EXTINF:-1, eurosport 2
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684764.ts
 
 #EXTINF:-1, multideporte
@@ -249,10 +249,10 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684901.ts
 #EXTINF:-1 tvg-id="Mezzo.es", MEZZO tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684904.ts
 
-#EXTINF:-1 tvg-id="Cazavision.es", cazavisión FHD
+#EXTINF:-1 tvg-id="Cazavision.es", cazavisión
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/685410.ts
 
-#EXTINF:-1 tvg-id="CazayPesca.es", Caza y pesca FHD
+#EXTINF:-1 tvg-id="CazayPesca.es", Caza y pesca
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684897.ts
 
 #EXTINF:-1 tvg-id="IberaliaTV.es", iberalia
