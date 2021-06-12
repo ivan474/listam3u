@@ -159,7 +159,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684813.ts
 #EXTINF:-1 tvg-id="Hashtag0.es", #0
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684769.ts
 
-#EXTINF:-1 tvg-id="tvg-id="MovistarOscars.es", M.VHS 
+#EXTINF:-1 tvg-id="tvg-id="movistarplus.es/vhs", M.VHS 
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/759199.ts
 
 #EXTINF:-1, Movistar series HD
@@ -177,13 +177,13 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684738.ts
 #EXTINF:-1, Movistar LaLiga
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684686.ts
 
-#EXTINF:-1 tvg-id="LaLigaTVBar.es", LaLigaTV Bar
+#EXTINF:-1, LaLigaTV Bar
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684704.ts
 
 #EXTINF:-1, Movistar Liga de Campeones 
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684711.ts
 
-#EXTINF:-1 tvg-id="CanalPlusDeportes.es", movistar deporte
+#EXTINF:-1, movistar deporte
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684747.ts
 
 #EXTINF:-1, movistar golf
@@ -243,13 +243,13 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2954.ts
 #EXTINF:-1, Hit tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684645.ts
 
-#EXTINF:-1,String clasica
+#EXTINF:-1, String clasica
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684901.ts
 
-#EXTINF:-1 tvg-id="Mezzo.es", MEZZO tv
+#EXTINF:-1, MEZZO tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684904.ts
 
-#EXTINF:-1 tvg-id="Cazavision.es", cazavisión
+#EXTINF:-1, cazavisión
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/685410.ts
 
 #EXTINF:-1 tvg-id="CazayPesca.es", Caza y pesca
@@ -282,10 +282,10 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684855.ts
 #EXTINF:-1, canal panda
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684857.ts
 
-#EXTINF:-1 tvg-id="https://www.movistarplus.es/guiamovil/DWSP" tvg-name="https://www.movistarplus.es/guiamovil/DWSP", Dreamworks
+#EXTINF:-1 tvg-name="https://www.movistarplus.es/guiamovil/DWSP", Dreamworks
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/759196.ts
 
-#EXTINF:-1 tvg-id="Disney+.es" tvg-name="Disney+", Disney+
+#EXTINF:-1 tvg-name="Disney+", Disney+
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/685409.ts
 
 #EXTINF:-1, disney channel HD
@@ -324,10 +324,10 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/768426.ts
 #EXTINF:-1, Star channel
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18439.ts
 
-#EXTINF:-1, Star action HD
+#EXTINF:-1, Star action
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18442.ts
 
-#EXTINF:-1, Star comedy FHD
+#EXTINF:-1, Star comedy
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/3644.ts
 
 #EXTINF:-1, Star cinema
@@ -357,16 +357,16 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18453.ts
 #EXTINF:-1, investigation discovery HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18462.ts
 
-#EXTINF:-1,Pasiones HD
+#EXTINF:-1,Pasiones
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18475.ts
 
-#EXTINF:-1, Sony HD
+#EXTINF:-1, Sony
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18476.ts
 
-#EXTINF:-1, Telemundo FHD
+#EXTINF:-1, Telemundo
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/736085.ts
 
-#EXTINF:-1, tlnovelas FHD
+#EXTINF:-1, tlnovelas
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/16042.ts
 
 #EXTINF:-1, azteca 7
