@@ -27,7 +27,7 @@ http://91.126.141.201:1935/live/kiss/chunklist_w722958382.m3u8
 #EXTINF:-1 tvg-id="TEN.es", TEN
 http://91.126.141.201:1935/live/ten/chunklist_w39037290.m3u8
 
-#EXTINF:-1, mtmad HD
+#EXTINF:-1, mtmad
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 
 #EXTINF:-1, Neox
@@ -51,55 +51,55 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684629.ts
 #EXTINF:-1, FDF
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684627.ts
 
-#EXTINF:-1, BE MAD TV HD
+#EXTINF:-1, BE MAD TV
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684622.ts
 
-#EXTINF:-1 tvg-id="StarTVE.cl", Star tve FHD
+#EXTINF:-1 tvg-id="StarTVE.cl", Star tve
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/30472.ts
 
-#EXTINF:-1, AMC ES
+#EXTINF:-1, AMC
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684779.ts
 
-#EXTINF:-1, AXN ES
+#EXTINF:-1, AXN
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684791.ts
 
 #EXTINF:-1, AXN WHITE
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684794.ts
 
-#EXTINF:-1, Fox ES
+#EXTINF:-1, Fox
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684785.ts
 
-#EXTINF:-1 tvg-id="FoxLife.es", Fox Life ES
+#EXTINF:-1 tvg-id="FoxLife.es", Fox Life
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684788.ts
 
-#EXTINF:-1, comedy central FHD
+#EXTINF:-1, comedy central
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684804.ts
 
-#EXTINF:-1, Hollywood HD
+#EXTINF:-1, Hollywood
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684830.ts
 
-#EXTINF:-1, calle 13 FHD
+#EXTINF:-1, calle 13
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684800.ts
 
-#EXTINF:-1 tvg-id="Dark.es", Dark FHD
+#EXTINF:-1 tvg-id="Dark.es", Dark
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684832.ts
 
 #EXTINF:-1, XTRM
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684824.ts
 
-#EXTINF:-1, syfy FHD
+#EXTINF:-1, syfy
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684782.ts
 
 #EXTINF:-1, Somos
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684834.ts
 
-#EXTINF:-1 tvg-id="Sundance.es", sundance ES
+#EXTINF:-1 tvg-id="Sundance.es", sundance
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684827.ts
 
 #EXTINF:-1 tvg-id="TCM.sp", TCM
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684836.ts
 
-#EXTINF:-1, TNT FHD
+#EXTINF:-1, TNT
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684797.ts
 
 #EXTINF:-1, bom
@@ -114,16 +114,16 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684885.ts
 #EXTINF:-1, Decasa
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684882.ts
 
-#EXTINF:-1, historia FHD
+#EXTINF:-1, historia
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684873.ts
 
-#EXTINF:-1, national geographic FHD
+#EXTINF:-1, national geographic
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684866.ts
 
-#EXTINF:-1, national geographic wild HD
+#EXTINF:-1, national geographic wild
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684869.ts
 
-#EXTINF:-1, odisea FHD
+#EXTINF:-1, odisea
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684863.ts
 
 #EXTINF:-1 tvg-name="Blaze", BLAZE ES 
@@ -138,7 +138,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684631.ts
 #EXTINF:-1 tvg-id="TV Guia_Crimen-Investigacion_ES.tutvguia.com" tvg-name="Crimen-Investigacion_ES.tutvguia.com" tvg-logo="ci.png", Crimen & Investigación
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684878.ts
 
-#EXTINF:-1 tvg-name="cosmo", cosmo FHD
+#EXTINF:-1 tvg-name="cosmo", cosmo
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684888.ts
 
 #EXTINF:-1, Movistar estrenos HD
@@ -225,10 +225,10 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684728.ts
 #EXTINF:-1, barça tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684729.ts
 
-#EXTINF:-1, Sevilla FC TV
+#EXTINF:-1, Sevilla FC Tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2839.ts
 
-#EXTINF:-1, Betis tv
+#EXTINF:-1, Betis Tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2840.ts
 
 #EXTINF:-1, gol
@@ -243,7 +243,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2954.ts
 #EXTINF:-1, Hit tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684645.ts
 
-#EXTINF:-1,String clasica HD
+#EXTINF:-1,String clasica
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684901.ts
 
 #EXTINF:-1 tvg-id="Mezzo.es", MEZZO tv
@@ -264,7 +264,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684861.ts
 #EXTINF:-1, Etb 1
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2740.ts
 
-#EXTINF:-1, Etb 2 HD
+#EXTINF:-1, Etb 2
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2739.ts
 
 #EXTINF:-1, andalucia tv
@@ -306,22 +306,22 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/15959.ts
 #EXTINF:-1, Animal planet
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/3683.ts
 
-#EXTINF:-1, A punt HD
+#EXTINF:-1, A punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1, fashion tv FHD
+#EXTINF:-1, fashion tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/767923.ts
 
-#EXTINF:-1, Discovery theather HD
+#EXTINF:-1, Discovery theather
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18434.ts
 
-#EXTINF:-1, Lifetime HD
+#EXTINF:-1, Lifetime
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/768424.ts
 
 #EXTINF:-1, Food network HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/768426.ts
 
-#EXTINF:-1, Star channel HD
+#EXTINF:-1, Star channel
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18439.ts
 
 #EXTINF:-1, Star action HD
@@ -330,19 +330,19 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18442.ts
 #EXTINF:-1, Star comedy FHD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/3644.ts
 
-#EXTINF:-1, Star cinema HD
+#EXTINF:-1, Star cinema
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18444.ts
 
-#EXTINF:-1, Star classics HD
+#EXTINF:-1, Star classics
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18445.ts
 
-#EXTINF:-1, Star fun HD
+#EXTINF:-1, Star fun
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18447.ts
 
-#EXTINF:-1, Star hits HD
+#EXTINF:-1, Star hits
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18448.ts
 
-#EXTINF:-1, Star series HD
+#EXTINF:-1, Star series
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18449.ts
 
 #EXTINF:-1, Fox movie mex
@@ -351,7 +351,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18451.ts
 #EXTINF:-1, Golden HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18452.ts
 
-#EXTINF:-1, Golden premier HD
+#EXTINF:-1, Golden premier
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18453.ts
 
 #EXTINF:-1, investigation discovery HD
