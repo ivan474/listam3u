@@ -31,13 +31,13 @@ http://91.126.141.201:1935/live/ten/chunklist_w39037290.m3u8
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 
 #EXTINF:-1, Neox
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684615.ts
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2705.ts
 
 #EXTINF:-1, Nova
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684618.ts
 
 #EXTINF:-1, MEGA
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684625.ts
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/714306.ts
 
 #EXTINF:-1 tvg-id="A3seriesHD.es", Atreseries
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684635.ts
@@ -52,7 +52,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684629.ts
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684627.ts
 
 #EXTINF:-1, BE MAD TV
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684622.ts
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2723.ts
 
 #EXTINF:-1 tvg-id="StarTVE.cl", Star tve
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/30472.ts
@@ -495,7 +495,9 @@ https://streamer.zapitv.com/PTV-CORDOBA/index.m3u8
 #EXTINF:-1, PTV sevilla
 https://streamer.zapitv.com/PTV-SEVILLA/index.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, Star tve
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/16034.ts
+
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
