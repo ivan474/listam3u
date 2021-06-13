@@ -135,22 +135,22 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684874.ts
 #EXTINF:-1, dmax
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684631.ts
 
-#EXTINF:-1 tvg-id="TV Guia_Crimen-Investigacion_ES.tutvguia.com" tvg-name="Crimen-Investigacion_ES.tutvguia.com" tvg-logo="ci.png", Crimen & Investigación
+#EXTINF:-1, Crimen & Investigación
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684878.ts
 
 #EXTINF:-1 tvg-name="cosmo", cosmo
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684888.ts
 
-#EXTINF:-1, Movistar estrenos HD
+#EXTINF:-1, M. ESTRENOS HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684807.ts
 
-#EXTINF:-1, Movistar acción HD
+#EXTINF:-1, Movistar ACCIÓN HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684821.ts
 
 #EXTINF:-1 tvg-id="M.CineDocRoll.es", Movistar CineDoc&Roll
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684816.ts
 
-#EXTINF:-1, Movistar Drama
+#EXTINF:-1, M. DRAMA
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684810.ts
 
 #EXTINF:-1, Movistar comedia HD
@@ -498,7 +498,7 @@ https://streamer.zapitv.com/PTV-SEVILLA/index.m3u8
 #EXTINF:-1, Star tve
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/16034.ts
 
-#EXTINF:-1,
+#EXTINF:-1,tvg-id="TV Guia_Crimen-Investigacion_ES.tutvguia.com" tvg-name="Crimen-Investigacion_ES.tutvguia.com" tvg-logo="ci.png"
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
