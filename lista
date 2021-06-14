@@ -18,7 +18,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684611.ts
 #EXTINF:-1 tvg-id="TV Guia_laSexta.tutvguia.com" tvg-name="laSexta.tutvguia.com" tvg-logo="laSexta_atresmedia.png", La sexta
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684614.ts
 
-#EXTINF:-1 tvg-id="CanalSur1.es", Canal sur
+#EXTINF:-1, Canal Sur HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2754.ts
 
 #EXTINF:-1, Dkiss
@@ -72,7 +72,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684785.ts
 #EXTINF:-1 tvg-id="FoxLife.es", Fox Life
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684788.ts
 
-#EXTINF:-1, COMEDYCENTRAL HD
+#EXTINF:-1, COMEDYCENTRAL
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684804.ts
 
 #EXTINF:-1, Hollywood
@@ -111,7 +111,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684801.ts
 #EXTINF:-1, Canal Cocina
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684885.ts
 
-#EXTINF:-1, Decasa
+#EXTINF:-1, CANAL DECASA
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684882.ts
 
 #EXTINF:-1, historia
@@ -147,13 +147,13 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684807.ts
 #EXTINF:-1, M. ACCIÓN HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684821.ts
 
-#EXTINF:-1, M.CineDocRoll
+#EXTINF:-1, M. CineDocRoll
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684816.ts
 
 #EXTINF:-1, M. DRAMA HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684810.ts
 
-#EXTINF:-1, M. COMEDIA HD
+#EXTINF:-1, M.COMEDIA
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684813.ts
 
 #EXTINF:-1 tvg-id="Hashtag0.es", #0
@@ -195,16 +195,16 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684766.ts
 #EXTINF:-1, toros
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684893.ts
 
-#EXTINF:-1, dazn 1
+#EXTINF:-1, DAZN 1
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/756895.ts
 
-#EXTINF:-1, dazn 2
+#EXTINF:-1, DAZN 2
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/756896.ts
 
-#EXTINF:-1, dazn 3
+#EXTINF:-1, DAZN 3
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/763543.ts
 
-#EXTINF:-1, dazn F1
+#EXTINF:-1, DAZN F1
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684744.ts
 
 #EXTINF:-1, eurosport 1
