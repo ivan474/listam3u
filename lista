@@ -1,27 +1,27 @@
 #EXTM3U
 
 #EXTINF:-1, La 1 HD
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2698.ts
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684599.ts
 
 #EXTINF:-1 tvg-id="LA2.es", La 2
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684602.ts
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2699.ts
 
-#EXTINF:-1 tvg-id="TV Guia_Antena_3.tutvguia.com" tvg-name="Antena_3.tutvguia.com" tvg-logo="antena3_atresmedia.png", Antena 3
+#EXTINF:-1 tvg-id="TV Guia_Antena_3.tutvguia.com" tvg-name="Antena_3.tutvguia.com" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/A3.png", Antena 3
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684605.ts
 
-#EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-name="Cuatro", Cuatro
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684608.ts
+#EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-name="Cuatro" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/C4.png", Cuatro
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2701.ts
 
-#EXTINF:-1 tvg-id="TV Guia_Telecinco.tutvguia.com" tvg-name="Telecinco.tutvguia.com" tvg-logo="telecinco.png", Telecinco
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684611.ts
+#EXTINF:-1 tvg-id="TV Guia_Telecinco.tutvguia.com" tvg-name="Telecinco.tutvguia.com" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/T5.png", Telecinco
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2702.ts
 
-#EXTINF:-1 tvg-id="TV Guia_laSexta.tutvguia.com" tvg-name="laSexta.tutvguia.com" tvg-logo="laSexta_atresmedia.png", La sexta
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684614.ts
+#EXTINF:-1 tvg-id="TV Guia_laSexta.tutvguia.com" tvg-name="laSexta.tutvguia.com" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/SEXTA.png", La sexta
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684613.ts
 
-#EXTINF:-1, Canal Sur HD
+#EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/CSURHD.png", Canal Sur HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2754.ts
 
-#EXTINF:-1, Dkiss
+#EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/ATRESS.png", Dkiss
 http://91.126.141.201:1935/live/kiss/chunklist_w722958382.m3u8
 
 #EXTINF:-1 tvg-id="TEN.es", TEN
@@ -39,7 +39,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684618.ts
 #EXTINF:-1, MEGA
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/714306.ts
 
-#EXTINF:-1 tvg-id="A3seriesHD.es", Atreseries
+#EXTINF:-1 tvg-id="A3seriesHD.es" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/ATRESS.png", Atreseries
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684635.ts
 
 #EXTINF:-1, divinity
