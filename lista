@@ -136,7 +136,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684874.ts
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684631.ts
 
 #EXTINF:-1, CRIMEN+INVES
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684878.ts
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/704800.ts
 
 #EXTINF:-1 tvg-name="cosmo", cosmo
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684888.ts
@@ -303,6 +303,15 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684846.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.mx", Cartoon network
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/15959.ts
 
+#EXTINF:-1, Boomerang
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/15882.ts
+
+#EXTINF:-1, Nat geo Kids
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/16020.ts
+
+#EXTINF:-1, discovery kids
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18433.ts
+
 #EXTINF:-1, Animal planet
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/3683.ts
 
@@ -357,7 +366,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18453.ts
 #EXTINF:-1, investigation discovery HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18462.ts
 
-#EXTINF:-1,Pasiones
+#EXTINF:-1, Pasiones
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18475.ts
 
 #EXTINF:-1, Sony
@@ -372,23 +381,14 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/16042.ts
 #EXTINF:-1, azteca 7
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/15939.ts
 
-#EXTINF:-1, discovery kids
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18433.ts
-
 #EXTINF:-1, Discovery home & health
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18432.ts
 
 #EXTINF:-1, Space
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18477.ts
 
-#EXTINF:-1, Nat geo Kids
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/16020.ts
-
 #EXTINF:-1, Azteca mundo
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/3616.ts
-
-#EXTINF:-1, Boomerang
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/15882.ts
 
 #EXTINF:-1, mola tv
 http://tvpremiumhd.club/lista-gratuita/213405/on/live.php?id=ventdelnord.tv:8080/mola/directe.m3u8
