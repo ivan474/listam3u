@@ -36,7 +36,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2705.ts
 #EXTINF:-1, Nova
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684618.ts
 
-#EXTINF:-1, MEGA
+#EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/MEGA.png", MEGA
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/714306.ts
 
 #EXTINF:-1 tvg-id="A3seriesHD.es" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/ATRESS.png", Atreseries
@@ -147,7 +147,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684807.ts
 #EXTINF:-1, M. ACCIÓN HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684821.ts
 
-#EXTINF:-1, M.CineDocRoll
+#EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/CPXTRA.png", M.CineDocRoll
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684816.ts
 
 #EXTINF:-1, M. DRAMA HD
@@ -276,7 +276,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684854.ts
 #EXTINF:-1, CLAN TVE
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684843.ts
 
-#EXTINF:-1 tvg-id="Boing.es", boing
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/BOING.png", boing
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684855.ts
 
 #EXTINF:-1, CANAL PANDA
