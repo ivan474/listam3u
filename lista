@@ -501,15 +501,6 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1, pequerradio tv
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1, 24/7 la pantera rosa
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/710256.ts
-
-#EXTINF:-1, 24/7 mr bean
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/765568.ts
-
-#EXTINF:-1, 24/7 fabulas de disney
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/765580.ts
-
 #EXTINF:-1, 24/7 Doraemon
 http://daletvplay.xyz:8080/enrique/12345/86185
 
@@ -536,6 +527,15 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/766621.ts
 
 #EXTINF:-1, warner tv
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=warner&f=.m3u8
+
+#EXTINF:-1, 24/7 la pantera rosa
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/710256.ts
+
+#EXTINF:-1, 24/7 mr bean
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/765568.ts
+
+#EXTINF:-1, 24/7 fabulas de disney
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/765580.ts
 
 #EXTINF:-1, 24/7 el chavo del 8
 http://daletvplay.xyz:8080/enrique/12345/86214
@@ -576,21 +576,6 @@ http://daletvplay.xyz:8080/enrique/12345/86203
 #EXTINF:-1, 24/7 Tom y Jerry
 http://daletvplay.xyz:8080/enrique/12345/86225
 
-#EXTINF:-1, cine + 2
-http://dc2f66004e9cfe709f0dbba8f3786e31.dramostimes.me/live/cra4.php?z=997&ui=204670&s=CT45ZZD7ZV&id=26345&h=697738d0bf310a94dff7f5ab6809116e1b602140&n=1626784982&i=85.136.217.120
-
-#EXTINF:-1, movistar + marvel
-http://dc2f66004e9cfe709f0dbba8f3786e31.dramostimes.me/live/cra4.php?z=997&ui=204670&s=CT45ZZD7ZV&id=26325&h=697738d0bf310a94dff7f5ab6809116e1b602140&n=1626784982&i=85.136.217.120
-
-#EXTINF:-1, netflix 1
-http://dc2f66004e9cfe709f0dbba8f3786e31.dramostimes.me/live/cra4.php?z=997&ui=204670&s=CT45ZZD7ZV&id=26282&h=697738d0bf310a94dff7f5ab6809116e1b602140&n=1626784982&i=85.136.217.120
-
-#EXTINF:-1, 24/7 pandemia como prevenir el brote 
-http://dc2f66004e9cfe709f0dbba8f3786e31.dramostimes.me/live/cra4.php?z=997&ui=204670&s=CT45ZZD7ZV&id=26222&h=16e514f76f779c20363b1f03e922cc467abe6102&n=1626947782&i=85.136.217.120
-
-#EXTINF:-1, eurosport 3
-http://185.134.22.131:8080/pedro123/pedro321/45590
-
 #EXTINF:-1, 24/7 animaniacs
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/17976.ts
 
@@ -614,6 +599,21 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/784462.ts
 
 #EXTINF:-1, 24/7 daniel el travieso
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/784483.ts
+
+#EXTINF:-1, 24/7 pandemia como prevenir el brote 
+http://dc2f66004e9cfe709f0dbba8f3786e31.dramostimes.me/live/cra4.php?z=997&ui=204670&s=CT45ZZD7ZV&id=26222&h=16e514f76f779c20363b1f03e922cc467abe6102&n=1626947782&i=85.136.217.120
+
+#EXTINF:-1, cine + 2
+http://dc2f66004e9cfe709f0dbba8f3786e31.dramostimes.me/live/cra4.php?z=997&ui=204670&s=CT45ZZD7ZV&id=26345&h=697738d0bf310a94dff7f5ab6809116e1b602140&n=1626784982&i=85.136.217.120
+
+#EXTINF:-1, movistar + marvel
+http://dc2f66004e9cfe709f0dbba8f3786e31.dramostimes.me/live/cra4.php?z=997&ui=204670&s=CT45ZZD7ZV&id=26325&h=697738d0bf310a94dff7f5ab6809116e1b602140&n=1626784982&i=85.136.217.120
+
+#EXTINF:-1, netflix 1
+http://dc2f66004e9cfe709f0dbba8f3786e31.dramostimes.me/live/cra4.php?z=997&ui=204670&s=CT45ZZD7ZV&id=26282&h=697738d0bf310a94dff7f5ab6809116e1b602140&n=1626784982&i=85.136.217.120
+
+#EXTINF:-1, eurosport 3
+http://185.134.22.131:8080/pedro123/pedro321/45590
 
 #EXTINF:-1,
 #EXTINF:-1,
