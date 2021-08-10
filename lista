@@ -649,8 +649,12 @@ http://appleiptv.com:25461/1819/1819/17321
 #EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 9 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 9 HD
 http://appleiptv.com:25461/1819/1819/17322
 
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1, 24/7 aqui no hay quien viva
+http://51.222.43.170:36995/3366MKLP/FnEEfAtWYR42/262967
+
+#EXTINF:-1, 24/7 Doraemon 2
+http://51.222.43.170:36995/3366MKLP/FnEEfAtWYR42/263006
+-
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
