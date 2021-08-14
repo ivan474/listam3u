@@ -72,7 +72,7 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684785.ts
 #EXTINF:-1 tvg-id="FoxLife.es", Fox Life
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684788.ts
 
-#EXTINF:-1, COMEDYCENTRAL
+#EXTINF:-1, COMEDYCENTRAL HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684804.ts
 
 #EXTINF:-1, Hollywood
@@ -144,11 +144,11 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684888.ts
 #EXTINF:-1, M. ESTRENOS
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684807.ts
 
+#EXTINF:-1, M. ESTRENOS 2
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684816.ts
+
 #EXTINF:-1, M. ACCIÓN HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684821.ts
-
-#EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/CPXTRA.png", M.CineDocRoll
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684816.ts
 
 #EXTINF:-1, M. DRAMA HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684810.ts
@@ -162,11 +162,11 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684769.ts
 #EXTINF:-1, M. Fest 
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/781390.ts
 
-#EXTINF:-1, Movistar series HD
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684772.ts
-
-#EXTINF:-1, M.Seriesmania
+#EXTINF:-1, M. Series
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684775.ts
+
+#EXTINF:-1, M. series 2
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684772.ts
 
 #EXTINF:-1, M. Cine Español
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684818.ts
@@ -654,8 +654,10 @@ http://51.222.43.170:36995/3366MKLP/FnEEfAtWYR42/262967
 
 #EXTINF:-1, 24/7 Doraemon 2
 http://51.222.43.170:36995/3366MKLP/FnEEfAtWYR42/263006
--
-#EXTINF:-1,
+
+#EXTINF:-1, U-BEAT
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/704767.ts
+
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
