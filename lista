@@ -504,9 +504,6 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1, pequerradio tv
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1, 24/7 Doraemon
-http://daletvplay.xyz:8080/enrique/12345/86185
-
 #EXTINF:-1, A&E lat
 http://entretenimiento.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6391
 
@@ -624,39 +621,8 @@ https://cdn7.lqsa.es/hls/0/stream.m3u8
 #EXTINF:-1, 24/7 1000 maneras de morir lat
 http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/34964
 
-#EXTINF:-1, taquilla 1
-http://appleiptv.com:25461/1819/1819/17310
-
-#EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 10 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 10 HD
-http://appleiptv.com:25461/1819/1819/17311
-#EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 11 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 11 HD
-http://appleiptv.com:25461/1819/1819/17312
-#EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 12 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 12 HD
-http://appleiptv.com:25461/1819/1819/17313
-#EXTINF:-1 tvg-id="" tvg-name="SE Movistar Estrenos HD" tvg-logo="" group-title="Espanolas",SE Movistar Estrenos HD
-http://appleiptv.com:25461/1819/1819/17314
-#EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 2 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 2 HD
-http://appleiptv.com:25461/1819/1819/17315
-#EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 3 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 3 HD
-http://appleiptv.com:25461/1819/1819/17316
-#EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 4 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 4 HD
-http://appleiptv.com:25461/1819/1819/17317
-#EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 5 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 5 HD
-http://appleiptv.com:25461/1819/1819/17318
-#EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 6 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 6 HD
-http://appleiptv.com:25461/1819/1819/17319
-#EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 7 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 7 HD
-http://appleiptv.com:25461/1819/1819/17320
-#EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 8 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 8 HD
-http://appleiptv.com:25461/1819/1819/17321
-#EXTINF:-1 tvg-id="" tvg-name="ES Taquilla 9 HD" tvg-logo="" group-title="Espanolas",ES Taquilla 9 HD
-http://appleiptv.com:25461/1819/1819/17322
-
 #EXTINF:-1, 24/7 aqui no hay quien viva
 http://51.222.43.170:36995/3366MKLP/FnEEfAtWYR42/262967
-
-#EXTINF:-1, 24/7 Doraemon 2
-http://51.222.43.170:36995/3366MKLP/FnEEfAtWYR42/263006
 
 #EXTINF:-1, 24/7 Contacto extranormal
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/188922
@@ -670,6 +636,12 @@ http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/188923
 #EXTINF:-1, 24/7 amazon kids
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/186346
 
+#EXTINF:-1, 24/7 Doraemon
+http://daletvplay.xyz:8080/enrique/12345/86185
+
+#EXTINF:-1, 24/7 Doraemon 2
+http://51.222.43.170:36995/3366MKLP/FnEEfAtWYR42/263006
+
 #EXTINF:-1, 24/7 Doraemon 3
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/186370
 
@@ -682,8 +654,8 @@ http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/186428
 #EXTINF:-1, 24/7 tiny toon
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/186457
 
-#EXTINF:-1, clasicos disney
-http://4k.nice2021.xyz:80/XAAYQQONPZ/1453208651/272488
+#EXTINF:-1, 24/7 un minuto para ganar
+http://new-tv.cloud:25461/VICTORIA2018/PATRICIO2012/98034
 
 #EXTINF:-1,
 #EXTINF:-1,
