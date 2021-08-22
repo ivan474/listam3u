@@ -252,81 +252,6 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684901.ts
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD,A la carta" tvh-chnum="108", MEZZO tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684904.ts
 
-#EXTINF:-1, cazavisión
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/685410.ts
-
-#EXTINF:-1 tvg-id="CazayPesca.es", Caza y pesca
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684897.ts
-
-#EXTINF:-1 tvg-id="IberaliaTV.es", iberalia
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684894.ts
-
-#EXTINF:-1 tvg-id="TV Guia_Viajar.tutvguia.com" tvg-name="Viajar.tutvguia.com" tvg-logo="viajar.png", viajar
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684861.ts
-
-#EXTINF:-1, Etb 1
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2740.ts
-
-#EXTINF:-1, Etb 2
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2739.ts
-
-#EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/ANDATV.png", andalucia tv
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2768.ts
-
-#EXTINF:-1, A punt
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
-
-#EXTINF:-1, Tv Canaria
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/713052.ts
-
-#EXTINF:-1, Fibracat tv
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/714284.ts
-
-#EXTINF:-1, Aragon tv
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684648.ts
-
-#EXTINF:-1, Sal tv
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/740797.ts
-
-#EXTINF:-1,13 tv
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684649.ts
-
-#EXTINF:-1, CMM
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684653.ts
-
-#EXTINF:-1,Extremadura tv
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684655.ts
-
-#EXTINF:-1,Intereconomia
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684657.ts
-
-#EXTINF:-1, Telemadrid
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684658.ts
-
-#EXTINF:-1, 324
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684661.ts
-
-#EXTINF:-1, 33
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684664.ts
-
-#EXTINF:-1, Teleonuba
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684666.ts
-
-#EXTINF:-1, InterAlmería TV
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684667.ts
-
-#EXTINF:-1, Canal Málaga
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684668.ts
-
-#EXTINF:-1, Condavisión
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684669.ts
-
-#EXTINF:-1, BON DIA TV
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684680.ts
-
-#EXTINF:-1, TV3
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684663.ts
-
 #EXTINF:-1, baby tv
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684854.ts
 
@@ -371,6 +296,66 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/18433.ts
 
 #EXTINF:-1, disney xd mex
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/36391.ts
+
+#EXTINF:-1, cazavisión
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/685410.ts
+
+#EXTINF:-1 tvg-id="CazayPesca.es", Caza y pesca
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684897.ts
+
+#EXTINF:-1 tvg-id="IberaliaTV.es", iberalia
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684894.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Viajar.tutvguia.com" tvg-name="Viajar.tutvguia.com" tvg-logo="viajar.png", viajar
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684861.ts
+
+#EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/ANDATV.png", andalucia tv
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2768.ts
+
+#EXTINF:-1, Tv Canaria
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/713052.ts
+
+#EXTINF:-1, Fibracat tv
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/714284.ts
+
+#EXTINF:-1, Aragon tv
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684648.ts
+
+#EXTINF:-1,13 tv
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684649.ts
+
+#EXTINF:-1, CMM
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684653.ts
+
+#EXTINF:-1,Extremadura tv
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684655.ts
+
+#EXTINF:-1,Intereconomia
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684657.ts
+
+#EXTINF:-1, Telemadrid
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684658.ts
+
+#EXTINF:-1, 33
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684664.ts
+
+#EXTINF:-1, Teleonuba
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684666.ts
+
+#EXTINF:-1, InterAlmería TV
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684667.ts
+
+#EXTINF:-1, Canal Málaga
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684668.ts
+
+#EXTINF:-1, Condavisión
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684669.ts
+
+#EXTINF:-1, BON DIA TV
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684680.ts
+
+#EXTINF:-1, TV3
+http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684663.ts
 
 #EXTINF:-1, Animal planet
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/3683.ts
