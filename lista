@@ -22,10 +22,10 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684613.ts
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2754.ts
 
 #EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/DKISS.png", Dkiss
-http://91.126.141.201:1935/live/kiss/chunklist_w722958382.m3u8
+http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/684632.ts
 
 #EXTINF:-1 tvg-id="TEN.es", TEN
-http://91.126.141.201:1935/live/ten/chunklist_w39037290.m3u8
+http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/684638.ts
 
 #EXTINF:-1, mtmad
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2758.ts
