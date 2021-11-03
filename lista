@@ -147,11 +147,14 @@ http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/791510.ts
 #EXTINF:-1, M. Amenabar
 http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/791511.ts
 
+#EXTINF:-1, M. Clásicos
+http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/794702.ts
+
 #EXTINF:-1, M. ESTRENOS
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684807.ts
 
 #EXTINF:-1, M. ESTRENOS 2
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684816.ts
+http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/790114.ts
 
 #EXTINF:-1, M. ACCIÓN HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684821.ts
@@ -281,9 +284,6 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684857.ts
 
 #EXTINF:-1 tvg-name="https://www.movistarplus.es/guiamovil/DWSP" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/dream.png", DreamWorks HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/759196.ts
-
-#EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/dysney.png", Disney+
-http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/685409.ts
 
 #EXTINF:-1, DISNEY CH HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684852.ts
@@ -669,19 +669,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f6800086
 #EXTINF:-1, historias de ultratumba
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1,liga
-http://share.globalesat.co:7711/dBMHBxeb/mPeww5Qd/18787
-
-#EXTINF:-1,liga 2
-http://share.globalesat.co:7711/dBMHBxeb/mPeww5Qd/23137
-
-#EXTINF:-1,sky sport 
-http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/mxKlx5XZ4A/Descarga-Desde-PlayStore-Gnula--GRATIS-Descarga-Gnula-GRATIS-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-PlayStore-Gnula-GRATIS-/100109
-
-#EXTINF:-1, mayday catastrofes aereas
-http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/mxKlx5XZ4A/Descarga-Desde-PlayStore-Gnula--GRATIS-Descarga-Gnula-GRATIS-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-PlayStore-Gnula-GRATIS-/100506
-
-#EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
