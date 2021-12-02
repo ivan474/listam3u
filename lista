@@ -108,6 +108,12 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684639.ts
 #EXTINF:-1, PARAMOUNT
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684801.ts
 
+#EXTINF:-1, exo tv peliculas
+http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/798626.ts
+
+#EXTINF:-1, my time movie network 
+http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/798746.ts
+
 #EXTINF:-1, Canal Cocina
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684885.ts
 
@@ -669,11 +675,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f6800086
 #EXTINF:-1, historias de ultratumba
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1, dkiss
-http://154.62.74.12:1935/live/smil:kiss/.m3u8
-
-
-#EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
