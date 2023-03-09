@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, group-title:"general", La 1 HD
-http://goodtv.nicefin.xyz:80//live/187254/187254/321277.ts
+acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
 #EXTINF:-1 tvg-id="LA2.es", La 2
 http://line.crystal-ott.com:80/live/6hoIzhAhJZKrpLw/fuhONHICYJ/1696.ts
