@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, group-title:"general", La 1 HD
-acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%20HD.png", group-title="ESPAÑA", M+ LaLigaTV FHD
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
 #EXTINF:-1 tvg-id="LA2.es", La 2
 http://line.crystal-ott.com:80/live/6hoIzhAhJZKrpLw/fuhONHICYJ/1696.ts
