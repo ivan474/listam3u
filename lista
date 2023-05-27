@@ -1,63 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESPAÑA", la 1
+#EXTINF:-1 group-title="general", la 1
 http://amazontv.me:8519/live/parisiptv1europtvtv/starsat123.com8080/781.ts
 
-#EXTINF:-1 tvg-id="LA2.es", La 2
+#EXTINF:-1 group-title="general" tvg-id="LA2.es", La 2
 http://line.crystal-ott.com:80/live/6hoIzhAhJZKrpLw/fuhONHICYJ/1696.ts
 
-#EXTINF:-1 tvg-id="TV Guia_Antena_3.tutvguia.com" tvg-name="Antena_3.tutvguia.com" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/A3.png", Antena 3
+#EXTINF:-1 group-title="general" tvg-id="TV Guia_Antena_3.tutvguia.com" tvg-name="Antena_3.tutvguia.com" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/A3.png", Antena 3
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684605.ts
 
-#EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-name="Cuatro" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/C4.png", Cuatro
+#EXTINF:-1 group-title="general" tvg-id="Cuatro.TDTChannelsEPG" tvg-name="Cuatro" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/C4.png", Cuatro
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2701.ts
 
-#EXTINF:-1 tvg-id="TV Guia_Telecinco.tutvguia.com" tvg-name="Telecinco.tutvguia.com" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/T5.png", Telecinco
+#EXTINF:-1 group-title="general" tvg-id="TV Guia_Telecinco.tutvguia.com" tvg-name="Telecinco.tutvguia.com" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/T5.png", Telecinco
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2702.ts
 
-#EXTINF:-1 tvg-id="TV Guia_laSexta.tutvguia.com" tvg-name="laSexta.tutvguia.com" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/SEXTA.png", La sexta
+#EXTINF:-1 group-title="general" tvg-id="TV Guia_laSexta.tutvguia.com" tvg-name="laSexta.tutvguia.com" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/SEXTA.png", La sexta
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684613.ts
 
-#EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/CSURHD.png", Canal Sur HD
+#EXTINF:-1 group-title="general" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/CSURHD.png", Canal Sur HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2754.ts
 
-#EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/DKISS.png", Dkiss
+#EXTINF:-1 group-title="general" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/DKISS.png", Dkiss
 http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/684632.ts
 
-#EXTINF:-1 tvg-id="TEN.es", TEN
+#EXTINF:-1 group-title="general" tvg-id="TEN.es", TEN
 http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/684638.ts
 
 #EXTINF:-1, mtmad
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2758.ts
 
-#EXTINF:-1, Neox
+#EXTINF:-1 group-title="general", Neox
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2705.ts
 
-#EXTINF:-1, Nova
+#EXTINF:-1 group-title="general", Nova
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684618.ts
 
-#EXTINF:-1 tvg-logo="http://verporlacara.ddns.net/imagenes/espana/MEGA.png", MEGA
+#EXTINF:-1 group-title="general" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/MEGA.png", MEGA
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/714306.ts
 
 #EXTINF:-1 tvg-id="A3seriesHD.es" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/ATRESS.png", Atreseries
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684635.ts
 
-#EXTINF:-1, divinity
+#EXTINF:-1 group-title="general", divinity
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2714.ts
 
-#EXTINF:-1, energy
+#EXTINF:-1 group-title="general", energy
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684629.ts
 
-#EXTINF:-1, FDF
+#EXTINF:-1 group-title="general", FDF
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684627.ts
 
-#EXTINF:-1, BE MAD TV
+#EXTINF:-1 group-title="general", BE MAD TV
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/736307.ts
 
 #EXTINF:-1 tvg-id="StarTVE.cl", Star tve
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/30472.ts
 
-#EXTINF:-1, AMC HD
+#EXTINF:-1 group-title="cine y series", AMC HD
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684779.ts
 
 #EXTINF:-1, AXN HD
