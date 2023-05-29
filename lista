@@ -27,7 +27,7 @@ http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/684632.ts
 #EXTINF:-1 group-title="general" tvg-id="TEN.es", TEN
 http://maxprime.ddnsking.com:8080/live/Kik5262729/Kik5262729/684638.ts
 
-#EXTINF:-1, mtmad
+#EXTINF:-1 group-title="general", mtmad
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2758.ts
 
 #EXTINF:-1 group-title="general", Neox
@@ -39,13 +39,11 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684618.ts
 #EXTINF:-1 group-title="general" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/MEGA.png", MEGA
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/714306.ts
 
-#EXTINF:-1 tvg-id="A3seriesHD.es" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/ATRESS.png", Atreseries
+#EXTINF:-1 group-title="general" tvg-id="A3seriesHD.es" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/ATRESS.png", Atreseries
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48649
 
-#EXTINF:-1, Atreseries internacional
+#EXTINF:-1 group-title="general", Atreseries internacional
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48727
-
-
 
 #EXTINF:-1 group-title="general", divinity
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/2714.ts
@@ -59,55 +57,55 @@ http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684627.ts
 #EXTINF:-1 group-title="general", BE MAD TV
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/736307.ts
 
-#EXTINF:-1 tvg-id="StarTVE.cl", Star tve
+#EXTINF:-1 group-title="general" tvg-id="StarTVE.cl", Star tve
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/30472.ts
 
 #EXTINF:-1 group-title="cine y series", AMC HD
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48790
 
-#EXTINF:-1, AXN HD
+#EXTINF:-1 group-title="cine y series", AXN HD
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48709
 
-#EXTINF:-1, AXN MOVIES
+#EXTINF:-1 group-title="cine y series", AXN MOVIES
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48719
 
-#EXTINF:-1, Fox
+#EXTINF:-1 group-title="cine y series", Fox
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684785.ts
 
 #EXTINF:-1 tvg-id="FoxLife.es", Fox Life
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684788.ts
 
-#EXTINF:-1, COMEDYCENTRAL HD
+#EXTINF:-1 group-title="cine y series", COMEDYCENTRAL HD
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48639
 
-#EXTINF:-1, Hollywood
+#EXTINF:-1 group-title="cine y series", Hollywood
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684830.ts
 
-#EXTINF:-1, calle 13
+#EXTINF:-1 group-title="cine y series", calle 13
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684800.ts
 
-#EXTINF:-1 tvg-id="Dark.es", Dark
+#EXTINF:-1 group-title="cine y series" tvg-id="Dark.es", Dark
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93289
 
-#EXTINF:-1, XTRM
+#EXTINF:-1 group-title="cine y series", XTRM
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684824.ts
 
-#EXTINF:-1, syfy
+#EXTINF:-1 group-title="cine y series", syfy
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684782.ts
 
-#EXTINF:-1, Somos
+#EXTINF:-1 group-title="cine y series", Somos
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684834.ts
 
-#EXTINF:-1 tvg-id="Sundance.es", sundance
+#EXTINF:-1 group-title="cine y series" tvg-id="Sundance.es", sundance
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684827.ts
 
-#EXTINF:-1 tvg-id="TCM.sp", TCM
+#EXTINF:-1 group-title="cine y series" tvg-id="TCM.sp", TCM
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684836.ts
 
-#EXTINF:-1, TNT
+#EXTINF:-1 group-title="cine y series", WARNER TV
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684797.ts
 
-#EXTINF:-1, bom
+#EXTINF:-1 group-title="cine y series", bom
 http://maxprime.ddnsking.com:8000/live/Kik5262729/Kik5262729/684639.ts
 
 #EXTINF:-1, PARAMOUNT
@@ -691,5 +689,7 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
+
+
 
 
